@@ -4,12 +4,22 @@ sidebar_position: 7
 
 # Create a Project
 
+## **Introduction**
+This guide will help you create a **Project** in the programme.
 
-# MNG-PRO-CRE-01 Create Project
-#### [Made by Gaby Barajas M with Scribe](https://scribehow.com/shared/MNG-PRO-CRE-01_Create_Project__A6nw1ASlQUytKc0Y9VhQ_w)
+## **Prerequisites**
+1.	**User ID** and **Password** to access APXGIS programme.
+2.	Assigned **Admin Rol**e to the given user ID.
 
 
-## 1\. Click "**ADMINISTRACION**" option.
+------------
+
+**Version**: 00
+**Date**: 22-09-2023
+
+------------
+
+##### 1\. Click "**ADMINISTRACION**" option.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/584afd59-0598-4304-bbf6-ddf388498db5/ascreenshot.jpeg?tl_px=0,0&br_px=1032,576&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=116,65)
 
