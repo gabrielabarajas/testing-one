@@ -9,7 +9,7 @@ This guide will help you create a **Project** in the programme.
 
 ## **Prerequisites**
 1.	**User ID** and **Password** to access APXGIS programme.
-2.	Assigned **Admin Rol**e to the given user ID.
+2.	Assigned **Admin Role** to the given user ID.
 
 
 ------------
@@ -18,13 +18,13 @@ This guide will help you create a **Project** in the programme.
 **Date**: 22-09-2023
 
 ------------
-
-##### 1\. Click "**ADMINISTRACION**" option.
+## **Step by Step**
+1\. Click "**ADMINISTRACION**" option.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/584afd59-0598-4304-bbf6-ddf388498db5/ascreenshot.jpeg?tl_px=0,0&br_px=1032,576&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=116,65)
 
 
-## 2\. Click "**PROYECTOS**" option.
+2\. Click "**PROYECTOS**" option.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/0d4877b8-6691-4d9b-b011-df5cb2e9d0b6/ascreenshot.jpeg?tl_px=0,0&br_px=1032,576&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=78,167)
 
@@ -39,15 +39,13 @@ This guide will help you create a **Project** in the programme.
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/46407219-efba-4274-9818-cac3b244c387/ascreenshot.jpeg?tl_px=0,0&br_px=1032,576&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=290,50)
 
 
-5\. Type the name of the new project. For this example"Test_Project_01" was typed.
-
+5\. Type the name of the new project. For this example"**Test_Project_01**" was typed.
 
 6\. Click "**TYPE**" dropdown and select "**AREA**".
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/4c140254-1f63-476d-a285-10b4cc02ac78/ascreenshot.jpeg?tl_px=0,0&br_px=1376,769&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=487,77)
 
-
-Tip: Tip!
+**Tip!**
 
 - Area
 - Distribution Line
@@ -85,7 +83,7 @@ Tip: Tip!
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/3b7fab37-bf14-46b4-b320-8fa10f21bd1e/ascreenshot.jpeg?tl_px=234,11&br_px=1267,588&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=482,255)
 
 
-Tip: Tip!
+**Tip!**
 
 When you click over one of the points already marked, the programme close the shape drawn. For this example, the area has a square shape.
 
@@ -95,7 +93,7 @@ When you click over one of the points already marked, the programme close the sh
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/ba124a9c-6f21-4eaf-a78b-82acafee356a/ascreenshot.jpeg?tl_px=0,0&br_px=1376,769&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=476,200)
 
 
-Tip: Tip!
+**Tip!**
 
 Status:
 
@@ -108,7 +106,7 @@ Status:
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/3a561263-2873-4409-98ce-005ea7f2e765/ascreenshot.jpeg?tl_px=0,0&br_px=1920,857&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=175,444)
 
 
-Alert: **Alert!**
+**Alert!**
 
 The project has been created, but since there is no user asigned to the project, this cannot be seen or updated. Follow the next steps to assign Users.
 
@@ -138,7 +136,7 @@ The project has been created, but since there is no user asigned to the project,
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/3b59e3d4-ec8e-4804-93d3-65130ba41d79/ascreenshot.jpeg?tl_px=0,280&br_px=1032,857&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=362,517)
 
 
-Alert: Alert!
+**Alert!**
 
 The project has been created. To display the project, refresh your browser and follow the next steps.  
 
@@ -148,9 +146,9 @@ The project has been created. To display the project, refresh your browser and f
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/c3f6eb6f-59de-43e3-943f-a2ebb9686524/ascreenshot.jpeg?tl_px=0,0&br_px=1032,576&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=284,0)
 
 
-21\. Click on the **project name**. For this example, "Test_Project_01".
+21\. Click on the **project name**. For this example, "**Test_Project_01**".
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/4047f8fb-3ee4-4a15-806c-19ec96b86238/ascreenshot.jpeg?tl_px=0,0&br_px=1719,857&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=218,410)
-#### [Made with Scribe](https://scribehow.com/shared/MNG-PRO-CRE-01_Create_Project__A6nw1ASlQUytKc0Y9VhQ_w)
+
 
 
