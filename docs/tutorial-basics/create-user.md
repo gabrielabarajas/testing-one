@@ -2,10 +2,10 @@
 sidebar_position: 2
 ---
 
-# Create a Role
+# Create a User
 
 ## **Introduction**
-This guide will help you create a **Role** to be used in a Project.
+This guide will help you create a **User** to be used in a Project.
 
 ## **Prerequisites**
 1.	**User ID** and **Password** to access APXGIS programme.
