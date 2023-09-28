@@ -9,6 +9,7 @@ This guide will help you create a **User** to be used in a Project.
 
 ## **Prerequisites**
 1.	**User ID** and **Password** to access APXGIS programme.
+2.	Assigned **Admin Role** to the given user ID.
 
 ------------
 
