@@ -3,8 +3,7 @@ sidebar_position: 1
 ---
 # Sign in
 
-## **Introduction**
-This guide will help you create a **User** to be used in a Project.
+This guide will help you create a **Sign in** into APX GIS programme.
 
 ## **Prerequisites**
 1.	**User ID** and **Password** to access APXGIS programme.
@@ -17,7 +16,7 @@ This guide will help you create a **User** to be used in a Project.
 ------------
 ## **Step by Step**
 
-1\. Navigate to https://beta.apx-gis.com/
+1\. Navigate to https://apx-gis.com/
 
 
 2\. Click the "**Correo electrónico**" field.

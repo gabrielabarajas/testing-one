@@ -4,7 +4,6 @@ sidebar_position: 2
 
 # Create a Project
 
-## **Introduction**
 This guide will help you create a **Project** in the programme.
 
 ## **Prerequisites**
