@@ -19,7 +19,7 @@ This guide will help you familiarize with the **elements** to be mapped in a pro
 
 |  # | Icon   | Name   | Description   |
 | ------------ | ------------ | ------------ | ------------ |
-|1|| Building ||
+|1|| Building |!["text"](/img/project-elements/building.png)|
 |2|| Cabinet ||
 |3|| Central Node  |   |
 |4|| Chamber  |   |
