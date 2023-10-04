@@ -16,107 +16,94 @@ This guide will help you undestand **Main menu**.
 ------------
 ## **Step by Step**
 
-1\. **Main Menu - Logo.** This logo has been set up from the menu Administración&gt;Configurar Instalación.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-20/412237a8-c5d3-4442-9fe2-f14592557a00/ascreenshot.jpeg?tl_px=0,0&br_px=1032,576&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=84,-15)
+1\. Once logged into the programme, the main navigation screen will be as the following. **The company logo** will be set up for your programme. It is possible to change the logo going through the menu path **Administration &gt; Installation setup.**
 
-
-2\. **Company name.** This name has been set up from the menu **Administración&gt;Configurar** I**nstalación**. In this example "**Test**" is the name of the company.
-
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-20/fe93ecff-628a-4d64-914e-c81a98766c93/ascreenshot.jpeg?tl_px=0,0&br_px=1032,576&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=194,-5)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-04/d597817a-e433-4ca6-ba8c-a4a4abf7d858/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1921,812&force_format=png&width=1120.0)
 
 
-3\. **"Select Project"** dropdown.** This option allows to display the available projects.
+2\. **Company name.** This name has been set up from the menu **Administration &gt; Installation setup.** In this example "**Test**" is the name of the company.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-20/7773e8ef-fbe1-43a9-9dcb-f48827a4166f/ascreenshot.jpeg?tl_px=0,0&br_px=1032,576&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=263,-11)
-
-
-4\. **"Select Project"** dropdown.** You are able to click on the project you want to work. (Inthis example "Default" project is selected).
-
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-20/a72d6768-bc36-4f52-be39-8a5358ce7187/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1032,576&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=381,138)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-04/c1961279-0521-4734-855f-3aa3bb37124f/ascreenshot.jpeg?tl_px=0,0&br_px=1238,692&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=217,-2)
 
 
-5\. **"Search elements in All layers"** field. This field allows to search elements in a project.
+3\. Click **"Select Project"** dropdown.\*\* This option will display the available projects.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/f64a1bea-ab78-424d-aad7-b87bd2f2c63e/user_cropped_screenshot.jpeg?tl_px=392,0&br_px=1768,769&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=524,-13)
-
-
-6\. **"Search elements in All layers"** dropdown.** Start typing the name of the element and the search engine will show the options, then select the option you are looking for.
-
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/4f5faedf-8a06-48a3-9c14-8c9e44693c0d/user_cropped_screenshot.jpeg?tl_px=200,0&br_px=1920,857&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=578,173)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-04/eea4e5b2-f791-46b2-b4dc-fccbe4cf542c/ascreenshot.jpeg?tl_px=0,0&br_px=1238,692&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=372,-10)
 
 
-7\. **"Search elements in All layers"** result. The map shows the location of the searched element.
+4\. Click the "**Project name**" field to start looking for a specific project and then one click on the name of the project will select it and display it on the map.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/11e5ff66-8745-4f91-ad8d-cdbd41ea4993/screenshot.jpeg?tl_px=521,188&br_px=1381,669&force_format=png&width=860)
-
-
-8\. **"Inbox option"** icon. It gives access to all the messages sent by APXGIS programme. If there are unread messages, a number will be displayed next to the icon.
-
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/a6bb268d-7041-4bc1-b67d-be8ff4182bb3/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1895,846&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=874,-12)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-04/ac693218-a253-47c3-b42c-63aabf1122fe/ascreenshot.jpeg?tl_px=0,0&br_px=1238,692&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=355,83)
 
 
-9\. **"Inbox option"** icon.** Click on any message to open it. For this example messaged clicked is "Errors detected during KML export".
-
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-20/935c7d87-a2b4-4aac-9781-d14d1b30fdad/ascreenshot.jpeg?tl_px=419,0&br_px=1452,576&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=482,182)
+5\. Type "**test**" for this example.
 
 
-10\. **"Inbox option"** icon.** Message is displayed, to close this window click **"Close" button**.
+6\. Click "**Test_Project_01**".
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-20/7ca20781-6bce-47ff-9c06-8c824da50129/ascreenshot.jpeg?tl_px=200,0&br_px=1920,857&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=765,465)
-
-
-11\. **"Mobile"** icon.** APXGIS can be access through mobile devices. **Not availabe at this time.**
-
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-20/bd23dc78-af67-4de2-957f-b0c9f4e2bd22/ascreenshot.jpeg?tl_px=937,0&br_px=1920,549&force_format=png&width=983&wat_scale=87&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=720,0)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-04/240c5e24-0a4e-4f97-9c50-fa05927da92f/ascreenshot.jpeg?tl_px=0,119&br_px=1238,812&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=377,389)
 
 
-12\. **"Settings" icon.** This option allows to set up a point in the map..... (input required -GB)
+7\. Click on **"Search elements in All layers"** dropdown. Start typing the name of the element and the search engine will show the options, then select the option you are looking for.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-20/e87889f4-78e2-4103-ab51-ab7877798d10/ascreenshot.jpeg?tl_px=887,0&br_px=1920,576&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=812,2)
-
-
-13\. **"Settings"** icon.** This option allows to set up a piont in the map.
-
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/b8bbc07a-262f-4389-b83c-094aebb0c826/user_cropped_screenshot.jpeg?tl_px=773,0&br_px=1920,640&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=899,-11)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-04/668c2792-2eb3-49c7-a085-8393e6191746/ascreenshot.jpeg?tl_px=0,0&br_px=1921,812&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=788,18)
 
 
-14\. **"Options"** icon.** Clic to display the options available.
+8\. Click "- **CA3305-BT chamber**"
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/279fe1f9-6270-4193-8e2a-bfb3dace8bf1/user_cropped_screenshot.jpeg?tl_px=760,0&br_px=1907,640&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=1039,90)
-
-
-Tip: This option allows to set up:
-
-1. Reference Cartography
-2. Layers
-3. Types
-
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-28/03a53bf3-fdf4-4c9a-881e-9ddb9171b21a/user_cropped_screenshot.jpeg?tl_px=86,47&br_px=945,527&force_format=png&width=860)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-04/ae3a61f6-e19a-4ca7-bd8f-cc98532c1044/ascreenshot.jpeg?tl_px=593,0&br_px=1832,692&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=524,80)
 
 
-15\. **"Reference Cartography " option.** 
+9\. Click **X** to close de pop up window. 
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-20/7b8c3b03-bfd5-4e63-ab66-9abfcdedc2fd/ascreenshot.jpeg?tl_px=887,0&br_px=1920,576&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=552,202)
-
-
-16\. **"Layers " option.** ..... (input required -GB)
-
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/55246a8f-c3e7-49d5-8cfd-2bd4a522ee3d/user_cropped_screenshot.jpeg?tl_px=887,0&br_px=1920,576&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=551,244)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-04/c65569c5-7e40-4261-b694-6802603d688e/ascreenshot.jpeg?tl_px=682,0&br_px=1921,692&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=593,32)
 
 
-17\. **"Layers " option.** ..... (input required -GB)
+10\. The element searched in the previous steps, will be shown in the map.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-20/02b638b6-1461-4194-9a46-2838596b52f9/ascreenshot.jpeg?tl_px=887,0&br_px=1920,576&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=551,244)
-
-
-18\. **"Types " option.** ..... (input required -GB)
-
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-20/4ce83a30-c58f-4c53-b865-6846a5b5ca8f/ascreenshot.jpeg?tl_px=887,25&br_px=1920,602&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=554,255)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-04/874bc1d3-6a85-4e59-9ca4-a738d46dec64/ascreenshot.jpeg?tl_px=0,0&br_px=1921,812&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=460,124)
 
 
-19\. **"Types " option.** ..... (input required -GB)
+11\. **"Inbox"** icon. It gives access to all the messages sent by APXGIS programme. If there are unread messages, a number will be displayed next to the icon. Click "**Inbox**" icon to display all the messages. Click on any massage if you need to display the information and click "**Close**" button to close this window.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-20/3e8789e3-92da-40c1-9ccd-a7012e31a2a6/ascreenshot.jpeg?tl_px=887,25&br_px=1920,602&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=552,255)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-04/a2ede9aa-1cd4-4dc7-b5f4-5e38b6deb5f1/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1921,812&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=872,387)
+
+
+12\. **"Mobile"** icon. APXGIS can be access through mobile devices. **Not available at this time.**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-04/ddb099ec-a643-4824-bd77-bf3faf15aa7e/ascreenshot.jpeg?tl_px=682,0&br_px=1921,692&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=833,1)
+
+
+13\. **"Settings"** icon. This option will show the following menu.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-04/5a301eb3-8db8-46ac-8b09-ed5a57f6a822/ascreenshot.jpeg?tl_px=682,0&br_px=1921,692&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=887,-10)
+
+
+14\. "Settings" option will allow to:
+
+Zoom Extents
+
+Go to Lon/Lat
+
+bt-pia (Point)
+
+bt-pia (Rect)
+
+bt-pia (Sched)
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-04/db2f57c4-f0c4-4502-97f8-de04ac78ec72/ascreenshot.jpeg?tl_px=682,0&br_px=1921,692&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=721,42)
+
+
+15\. Click on **user name**. For this example: "Carlos Bock", and the menu for a user will be displayed:
+
+My account:
+
+Tickets and Support: 
+
+Sign out:
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-04/59bb91ae-707d-40d1-b199-39644f47bec0/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=517,201&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=3852,24)
+#### [Made with Scribe](https://scribehow.com/shared/GEN-MEN-01_Describe_Top_Main_Menu__WEvE8gnoQxaWc6u9scMckA)
 
 
