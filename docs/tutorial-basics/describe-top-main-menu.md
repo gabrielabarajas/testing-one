@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 ---
-# Main Menu
+# Top Main Menu
 
 This guide will help you undestand the **Top Main Menu**.
 
