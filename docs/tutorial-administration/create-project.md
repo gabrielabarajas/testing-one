@@ -18,136 +18,112 @@ This guide will help you create a **Project** in the programme.
 
 ------------
 ## **Step by Step**
-1\. Click "**ADMINISTRACION**" option.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/584afd59-0598-4304-bbf6-ddf388498db5/ascreenshot.jpeg?tl_px=0,0&br_px=1032,576&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=116,65)
+1\. Click "**Administration**" menu.
 
+![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01_STP1.png)
 
-2\. Click "**PROYECTOS**" option.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/0d4877b8-6691-4d9b-b011-df5cb2e9d0b6/ascreenshot.jpeg?tl_px=0,0&br_px=1032,576&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=78,167)
+2\. Click "**Projects**" option.
 
+![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01_STP2.png)
 
-3\. Click "**ADD**" button.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-22/89cdd6a2-0238-4fc1-836b-4fab517ef7d6/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1719,864&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=224,503)
+3\. Click "**Add**" button.
 
+![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01_STP3.png)
 
-4\. Click "**NAME**" text field.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/46407219-efba-4274-9818-cac3b244c387/ascreenshot.jpeg?tl_px=0,0&br_px=1032,576&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=290,50)
+4\. Click "**Name**"text field.
 
+![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01_STP4.png)
 
-5\. Type the name of the new project. For this example"**Test_Project_01**" was typed.
 
-6\. Click "**TYPE**" dropdown and select "**AREA**".
+5\. Type  the name of the project  to be created. For this example "**TEST_PROJECT_02**".
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/4c140254-1f63-476d-a285-10b4cc02ac78/ascreenshot.jpeg?tl_px=0,0&br_px=1376,769&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=487,77)
 
-**Tip!**
+6\. Click "**Type**" dropdown to display the options available.
 
-- Area
-- Distribution Line
-- Project
-- Distribution Project
+![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01_STP6.png)
 
 
-7\. Click "**DEFINE**" button to start drawing the area of the new project.
+7\. Select "**Area**" option.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/bd2fd1ec-999c-4d6b-ab03-bf724cf4d1cb/ascreenshot.jpeg?tl_px=0,0&br_px=1032,576&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=165,174)
+<img src="/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01_STP7.png" width="450px"/>
 
 
-8\. Click over the "**STARTING**" point of the area you need to define.
+8\. Click "**Define**" button to start defining the area for the project.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/c7128919-4e2b-4376-b983-c8fa7c851a89/ascreenshot.jpeg?tl_px=237,6&br_px=1270,583&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=482,255)
+![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01_STP8.png)
 
 
-9\. Click over the "**NEXT**" point of the area you need to define.
+9\. Click over the first point of the area to be set.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/0c172e83-101e-42ad-a152-2cbca0fd2eec/ascreenshot.jpeg?tl_px=735,3&br_px=1768,580&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=482,255)
+![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01_STP9.png)
 
 
-10\. Click over the "**NEXT**" point of the area you need to define.
+10\. Go to the second point an click to continue drawing the shape.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/ebc660be-f744-4afe-be77-87ffad186df3/ascreenshot.jpeg?tl_px=746,271&br_px=1779,848&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=482,255)
+![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01_STP10.png)
 
 
-11\. Click over the "**NEXT**" point of the area you need to define.
+11\. Go to the third point an click to continue drawing the shape.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/cf8eb560-8bc3-48d2-b893-4ac0b624aeaf/ascreenshot.jpeg?tl_px=243,280&br_px=1276,857&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=482,258)
+![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01_STP11.png)
 
 
-12\. Click over the "**NEXT**" point of the area you need to define.
+12\. Go to the forth point an click to continue drawing the shape.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/3b7fab37-bf14-46b4-b320-8fa10f21bd1e/ascreenshot.jpeg?tl_px=234,11&br_px=1267,588&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=482,255)
+![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01_STP12.png)
 
 
-**Tip!**
+13\. Go back to the first point an click to close the shape
 
-When you click over one of the points already marked, the programme close the shape drawn. For this example, the area has a square shape.
+![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01_STP13.png)
 
 
-13\. Leave "**STATUS**" field blank.
+**Tip**: You can mark on the map as many points as you need, the shape of the area ends by clicking on the first point.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/ba124a9c-6f21-4eaf-a78b-82acafee356a/ascreenshot.jpeg?tl_px=0,0&br_px=1376,769&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=476,200)
 
+14\. Click this "**Status**" dropdown to see the options available (00 DESIGNED and 01 INSTALLED). For this example leave the status blank.
 
-**Tip!**
+<img src="/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01_STP14.png" width="450px"/>
 
-Status:
 
-- 00 DESIGNED
-- 01 INSTALLED
+15\. Users can be assigned at the moment of creating the project, or if there are no users created, they can be assigned later. Click "**Users**" dropdown to display the users available.
 
+![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01_STP15.png)
 
-14\. Click "**APPLY**" button.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/3a561263-2873-4409-98ce-005ea7f2e765/ascreenshot.jpeg?tl_px=0,0&br_px=1920,857&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=175,444)
+16\. All available users are displayed, the first option allows you to select all users at once or you can select them one by one.
 
+![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01_STP16.png)
 
-**Alert!**
 
-The project has been created, but since there is no user asigned to the project, this cannot be seen or updated. Follow the next steps to assign Users.
+17\. For this example, all users were selected.
 
+![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01_STP17.png)
 
-15\. Click "**USERS**" dropdown.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/75158bd5-3f40-4a98-a27c-eaf2d27969fb/ascreenshot.jpeg?tl_px=0,87&br_px=1376,857&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=12,286)
+18\. In case you want to relate the project to be created with an existing one, click on the "**Related projects**" dropdown  and select project. For this example no projects related.
 
+![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01_STP18.png)
 
-16\. Click "**ALL USERS"** option box.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/f43a3745-7328-4cd0-a38e-a74dfcfc435a/ascreenshot.jpeg?tl_px=0,87&br_px=1376,857&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=28,331)
+19\. Click "**Apply**" button.
 
+![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01_STP19.png)
 
-17\. Click "**APPLY**" button.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/c3da24b2-7ec2-4d65-b22b-9def5c852d10/ascreenshot.jpeg?tl_px=0,280&br_px=1032,857&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=315,522)
+20\. Click "**Close**" button. At this point the project information has been created locally in your computer.
 
+![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01_STP20.png)
 
-18\. Click "**CLOSE**" button.
+21\. Click on "**Refresh**" depending on the browser you are using. For this example Chrome browser is used.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/f7305f2f-eb6b-4b6c-a13e-e8c169c0f13d/ascreenshot.jpeg?tl_px=200,0&br_px=1920,857&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=624,235)
+![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01_STP21.png)
 
 
-19\. Click "**CLOSE**" button.
-
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/3b59e3d4-ec8e-4804-93d3-65130ba41d79/ascreenshot.jpeg?tl_px=0,280&br_px=1032,857&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=362,517)
-
-
-**Alert!**
-
-The project has been created. To display the project, refresh your browser and follow the next steps.  
-
-
-20\. Click "**SELECT** **PROJECT**" dropdown.
-
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/c3f6eb6f-59de-43e3-943f-a2ebb9686524/ascreenshot.jpeg?tl_px=0,0&br_px=1032,576&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=284,0)
-
-
-21\. Click on the **project name**. For this example, "**Test_Project_01**".
-
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-09-21/4047f8fb-3ee4-4a15-806c-19ec96b86238/ascreenshot.jpeg?tl_px=0,0&br_px=1719,857&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=218,410)
-
+**Tip**: The project has been created.
 
 
