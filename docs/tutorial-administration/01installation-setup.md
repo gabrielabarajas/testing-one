@@ -113,6 +113,3 @@ This guide will help you **Configure the Installation** in the programme.
 
 
 **Tip**: The parameters are updated.
-
-
-
