@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Tutorial Introduction
 
 Let's discover **APX GIS** programme.
 

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# Project Elements
+# Project elements' icons 
 
 This guide will help you familiarize with icons of some of the **elements** mapped in a project. 
 
