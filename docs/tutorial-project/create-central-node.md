@@ -3,11 +3,11 @@ sidebar_position: 1
 ---
 # Create Central Node
 
-This guide will help you undestand the **Top Main Menu**.
+This guide will help you create a **Central Node** in an existing proyect and layer.
 
 ## **Prerequisites**
 1.	**User ID** and **Password** to access APXGIS programme.
-2.  **Project** must be selected prevously.
+2.  **Project** must be created and selected prevously.
 
 ------------
 
