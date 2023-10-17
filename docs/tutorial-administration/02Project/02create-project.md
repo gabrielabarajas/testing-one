@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Create a Project
@@ -56,6 +56,15 @@ This guide will help you create a **Project** in the programme.
 
 ![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01_STP8.png)
 
+**Project Types**:
+
+**Area**: This is the commonly used type, which allows us to consider that the elements to be mapped are located in an area with a defined shape.
+
+**Distribution Line**: allows to consider a line on which the network elements will be mapped and is normally used to trace a feeder line from one village to another.
+
+Project
+
+Distribution Project
 
 9\. Click over the first point of the area to be set.
 
