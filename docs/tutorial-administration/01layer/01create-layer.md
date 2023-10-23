@@ -77,9 +77,12 @@ This guide will help you **create a layer** in the programme.
 
 Tip: **Description of layer types.**
 
-**Normal:** accepts styles, responds well with less than 10,000 elements per project per layer.\
-**APX WMS:** accepts styles, responds well with more than 10,000 elements per project per layer\
-**WMS:** does not accept styles, responds well with more than 10,000 elements per project per layer, certain parameters must be set in order to to work correctly.\
+**Normal:** accepts styles, responds well with less than 10,000 elements per project per layer.
+
+**APX WMS:** accepts styles, responds well with more than 10,000 elements per project per layer
+
+**WMS:** does not accept styles, responds well with more than 10,000 elements per project per layer, certain parameters must be set in order to to work correctly.
+
 **Special:** only and exclusively for use in the Blockage layer.
 
 
