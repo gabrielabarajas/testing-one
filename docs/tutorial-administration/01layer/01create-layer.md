@@ -75,7 +75,7 @@ This guide will help you **create a layer** in the programme.
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-17/16c81970-3df8-409c-9982-8b4e07a31c9f/screenshot.png?tl_px=0,0&br_px=1355,590&force_format=png&width=1120.0)
 
 
-Tip: **Description of layer types.**
+**Tip**: Description of layer types.
 
 **Normal:** accepts styles, responds well with less than 10,000 elements per project per layer.
 
