@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Create a Project
@@ -14,7 +14,7 @@ This guide will help you create a **Project** in the programme.
 ------------
 
 **Version**: 00
-**Date**: 22-09-2023
+**Date**: October-2023
 
 ------------
 ## **Step by Step**
