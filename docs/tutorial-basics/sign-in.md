@@ -11,37 +11,31 @@ This guide will help you **Sign in** into APX GIS programme.
 ------------
 
 **Version**: 00
-**Date**: 03-10-2023
+**Date**: October-2023
 
 ------------
 ## **Step by Step**
 
-1\. Navigate to **<https://app.apx-gis.net/>**
+
+1\. Navigate to **https://app.apx-gis.net/**
 
 
-2\. Click the "**Email**" field.
+2\. Click the "**Email**" field and type your email. For this example "**barajas.gaby@apfutura.net**".
 
-![](/img/GEN-SGN-01/GEN-SGN-01STP2.png)
-
-
-3\. Type your email address.
+![](/img/GEN-SGN-01/GEN-SGN-01-STP02.png)
 
 
-4\. Click the "**Password**" field.
+3\. Click the "**Password**" field and type your password.
 
-![](/img/GEN-SGN-01/GEN-SGN-01STP4.png)
-
-
-5\. Type your password.
+![](/img/GEN-SGN-01/GEN-SGN-01-STP03.png)
 
 
-6\. Click "**Sign in**" button.
+4\. Click "**Sign in**" button.
 
-![](/img/GEN-SGN-01/GEN-SGN-01STP6.png)
+![](/img/GEN-SGN-01/GEN-SGN-01-STP04.png)
 
-7\. Main menu will be loaded.
+5\. The main view of APX-GIS will be displayed.
 
-![](/img/GEN-SGN-01/GEN-SGN-01STP7.png)
-
+![](/img/GEN-SGN-01/GEN-SGN-01-STP05.png)
 
 
