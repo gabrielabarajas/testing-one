@@ -6,7 +6,7 @@ sidebar_position: 1
 This guide will help you **Sign in** into APX GIS programme.
 
 ## **Prerequisites**
-1.	**User ID** and **Password** to access APXGIS programme.
+1.	**User ID** and **Password** to access APX-GIS programme.
 
 ------------
 
@@ -39,3 +39,4 @@ This guide will help you **Sign in** into APX GIS programme.
 ![](/img/GEN-SGN-01/GEN-SGN-01-STP05.png)
 
 
+**Tip**: Sign in completed.
