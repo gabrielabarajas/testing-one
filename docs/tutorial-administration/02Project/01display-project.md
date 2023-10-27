@@ -8,7 +8,6 @@ This guide will help you display a **Project** in the programme.
 
 ## **Prerequisites**
 1.	**User ID** and **Password** to access APXGIS programme.
-2.	Assigned **Admin Role** to the given user ID.
 2.	**Project** to be displayed has to be created previously.
 
 
@@ -21,60 +20,54 @@ This guide will help you display a **Project** in the programme.
 ## **Step by Step**
 
 
-1\. Click **"Select Project**" dropdown menu.
-
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-24/cf994df1-1fcb-40dd-9266-6acb70498188/ascreenshot.jpeg?tl_px=0,0&br_px=1238,692&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=329,-2)
+1\. Navigate to [https://app.apx-gis.net/#/](https://app.apx-gis.net/#/)
 
 
-2\. Click the "**Project name**" field and start typing the name of the project, for this example type "**test**".
+2\. Click "**Select Project**" dropdown.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-24/78387ad6-0a93-4ac5-a9e2-71ac57a0c88d/ascreenshot.jpeg?tl_px=0,0&br_px=1238,692&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=334,89)
-
-
-3\. Click on the name of the project to be displayed, for this example "**TEST_PROJECT_01**".
-
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-24/301f2e27-630f-4d59-a980-88f790219a76/ascreenshot.jpeg?tl_px=0,98&br_px=1238,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=432,298)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-27/ee12b486-2b82-4817-a6d7-249da8a24224/ascreenshot.jpeg?tl_px=0,0&br_px=1921,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=442,-8)
 
 
-4\. Click "TEST_PROJECT_01"
+3\. All projects you have access to will be displayed, select the one you want to display, for this example click "**Project-01**".
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-24/b1076b21-ef3e-44f2-b107-365d27ca99b7/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1921,791&force_format=png&width=1120.0)
-
-
-Tip: The project has been displayed. Next steps will show you an alternative option to display a project.
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-27/77a0f6f9-f26b-4b0c-bb8b-8a5f20f21654/ascreenshot.jpeg?tl_px=0,0&br_px=1921,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=415,56)
 
 
-5\. Click "**Administration**" dropdown menu.
+4\. The selected project will be displayed on the map. This project will be delimited by a colour (orange by default) and nearby projects will be delimited with grey colour.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-24/0c6259e4-308b-4525-8f9f-321dc8dc457e/ascreenshot.jpeg?tl_px=0,0&br_px=1238,692&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=128,71)
+You can change the way you see the projects by clicking on the "**Settings**" menu at the top.
 
-
-6\. Click "**Projects**" option.
-
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-24/5906afa3-6d5d-455e-a5f8-ea67dfab275c/ascreenshot.jpeg?tl_px=0,0&br_px=1238,692&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=83,184)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-27/539b8e7e-cb26-47d6-9ef5-86306fd14add/ascreenshot.jpeg?tl_px=0,0&br_px=1921,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=919,-10)
 
 
-7\. Click "**Name**" field and start typing the name of the project.
+5\. Click "**Hide close project area**" option and nearby projects (in grey) will not be visible on the map.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-24/3e7d6c8e-464f-4169-b024-0c911a563e84/ascreenshot.jpeg?tl_px=0,98&br_px=1238,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=88,325)
-
-
-8\. For this example start writing "**test**" and the projects which names contains this word will appear on the list, click "**TEST_PROJECT_01**".
-
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-24/b649980a-041e-43a3-b871-cd408f9e71e4/ascreenshot.jpeg?tl_px=0,98&br_px=1238,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=237,438)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-27/ca92478c-0f3e-4dd8-aa8f-11590f2c8498/ascreenshot.jpeg?tl_px=0,0&br_px=1921,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=744,116)
 
 
-9\. Click "**Apply**" button.
+6\. Another option available is to hide the boundary line of the project you are viewing. Click on the **"Settings**" menu at the top.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-24/3c61d869-a6d7-469f-99b1-20523601a4d9/ascreenshot.jpeg?tl_px=0,98&br_px=1238,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=344,555)
-
-
-10\. Click "**Close**" button.
-
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-24/ea3400d0-eacb-43ac-b6a2-3b895f9ff6a1/ascreenshot.jpeg?tl_px=0,0&br_px=1921,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=726,254)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-27/05df8286-4c2f-4212-a533-132a1b75407c/ascreenshot.jpeg?tl_px=0,0&br_px=1921,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=925,-3)
 
 
-11\. Click "**Close**"button.
+7\. Click "**Hide project line**" option and the project delimitation line will disappear.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-24/a07fb858-33d8-417f-8244-f960aa70aca8/ascreenshot.jpeg?tl_px=0,0&br_px=1719,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=267,452)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-27/3450e572-6ed7-45e2-bae3-01a6d8645cfb/ascreenshot.jpeg?tl_px=0,0&br_px=1921,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=768,88)
 
+
+8\. In case you want to activate the project delimitation line, click "**Settings**" option.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-27/ab70d33f-69c4-4a2a-a58c-9af89dcbf695/ascreenshot.jpeg?tl_px=0,0&br_px=1921,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=929,-1)
+
+
+9\. Click "**Show project line**" option.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-27/1ce82d08-a899-4644-a2c1-50b4439f3638/ascreenshot.jpeg?tl_px=0,0&br_px=1921,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=779,90)
+
+
+10\.  The project delimitation line will be displayed.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-27/2f2ff649-e1ee-46f0-acd5-84444fed8309/screenshot.jpeg?tl_px=0,0&br_px=1908,786&force_format=png&width=1120.0)
+
+
+**Tip**: Project displayed.

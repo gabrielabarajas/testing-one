@@ -14,102 +14,115 @@ This guide will help you **Configure the Installation** in the programme.
 ------------
 
 **Version**: 00
-**Date**: 22-09-2023
+**Date**: October-2023
 
 ------------
 ## **Step by Step**
 
-1\. Click "**Administration**" button.
-
-![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01_STP1.png)
-
-
-2\. Click "**Installation setup**" option.
-
-![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01_STP2.png)
+# New MNG-INS-CNF-01 Installation Set Up
+#### [Made by Gaby Barajas with Scribe](https://scribehow.com/shared/New_MNG-INS-CNF-01_Installation_Set_Up__4KLHXvAHQwifzrpIMM_FSQ)
 
 
-3\. Click "**Name**" field and type the name of the company.
-
-![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01_STP3.png)
+1\. Navigate to [https://app.apx-gis.net/#/](https://app.apx-gis.net/#/)
 
 
-4\. For this example, type "**Company Name**" in the field selected.
+2\. Click "**Administration**" dropdown menu.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-26/953f7b08-696a-4ae3-a9a1-584cd9cd55e1/ascreenshot.jpeg?tl_px=0,0&br_px=1032,575&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=99,66)
 
 
-5\. Click "**Choose**" button on the logo field to select the file from your computer to be inserted as the logo.
+3\. Click "**Installation setup**" menu option.
 
-![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01_STP5.png)
-
-
-6\. Click "**Lang**" dropdown and select one of the three languages available: English, Catalan, Spanish.
-
-![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01_STP6.png)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-26/96e8fa46-06e3-40b1-b8a0-f903b21d3cdd/ascreenshot.jpeg?tl_px=0,0&br_px=1032,575&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=114,149)
 
 
-7\. Click "**Params**" button to display the parameters and its current values.
+4\. "**Code**" this number is given by the programfor the installation.
 
-![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01_STP7.png)
+Click "**Name**", to set up the installation name, this name will be displayed on the top right corner, next to the company logo. For this example it was typed "**Company name**".
 
-
-8\. The "**Params**" view will be displayed, showing current and default values, click over a "**current**" value to edit data, for this example "**allowedTypes_uploadFiles**" &gt; "**current**".
-
-![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01_STP8.png)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-26/e82ed3d4-e92b-424f-9efb-0257fb7e654f/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1032,575&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=197,115)
 
 
-9\. The values of the specific parameter are shown. In the "**Value**" field, values can be added or deleted by clicking on this field and typing or deleting.
+5\. Click "**Choose**" button to select the company logo for the installation.
 
-![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01_STP9.png)
-
-
-10\. Once the desired values  have been edited, click on the "**Apply**" button to save the changes.
-
-![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01_STP10.png)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-26/09653fa9-a93b-4a78-ade0-9be86e8a3a05/ascreenshot.jpeg?tl_px=0,0&br_px=1146,575&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=451,153)
 
 
-11\. Click "**Map setup**" button to display and edit the maps available.
+6\. File explorer window will be opened. Search for the logo you want to use and click "**Open**" button.
 
-![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01_STP11.png)
-
-
-12\. To delete a map, click on the "**X**" button.
-
-![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01_STP12.png)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-27/6abe0b93-fe41-4b18-b82c-ceb93e98604c/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1309,717&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=871,544)
 
 
-13\. The programme will send a message to confirm deletion. 
+7\. Click "**Lang**" dropdown (Language) to select the installation language (1) and click one of options. For this example, **English** language was selected (2).
 
-![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01_STP13.png)
-
-
-14\. To add a map, click the dropdown option shown below.
-
-![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01_STP14.png)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-26/61ae61f7-1784-4959-b69b-b308f5c0e428/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1923,801&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=531,185)
 
 
-15\. Select the map to be added. For this example "**APFutura Map server**".
+8\. Click "**Params**" button to display all the parameters.
 
-<img src="/img/MNG-INS-CNF-01/MNG-INS-CNF-01_STP15.png" width="450px"/>
-
-
-16\. Click "**\+**" button.
-
-![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01_STP16.png)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-26/164dea3b-c532-43cc-97ba-5799253c4008/ascreenshot.jpeg?tl_px=0,0&br_px=1032,575&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=462,321)
 
 
-17\. The field "**Center**" shows the current coordinates of the centre of the map, these can be changed manually.
+9\. "**Params**"  (parameters) window will be displayed. This parameters are set according to the needs of the particular installation or client.
 
-![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01_STP17.png)
+Click "**Close**" button to close "**Params**" window.
 
-
-18\. The zoom of the map can be changed by editing the value of the "**Zoom**" field and pressing &lt;**Enter**&gt; on the keyboard.
-
-![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01_STP18.png)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-27/b0d2cb43-f2df-469c-8149-a7636c99e73d/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1146,575&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=298,489)
 
 
-19\. Click "**Apply**" button.
+10\. Click "**Map setup**" button to add or delete maps.
 
-![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01_STP19.png)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-26/e7726256-cf52-4200-ab50-2a09687f3ab4/ascreenshot.jpeg?tl_px=0,0&br_px=1032,575&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=352,360)
 
 
-**Tip**: The parameters are updated.
+11\. The "**Map Setup**" window will be shown. To add a map, click the "**Reference cartography**" dropdown (1) and then select the map type (2), for this example "**Google Maps ROADMAP**".
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-26/755edd78-3e53-45ac-9137-8e27b4c9225e/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1986,786&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=451,84)
+
+
+12\. You must click "**Plus (+)**" button after selecting the map type.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-26/8dc80b98-186e-44b3-bdc1-f416f674d3b7/ascreenshot.jpeg?tl_px=0,0&br_px=1361,575&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=490,80)
+
+
+13\. The confirmation window is opened. Type the name that identifies the map to be added (1), for this example "**Google Maps Roadmap**" and press the "**OK**" button (2).
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-26/d8d5ecca-e5be-4ff7-868f-305bc4a1f4d8/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=824,360&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=770,352)
+
+
+14\. The map has been added to the "**Reference Cartography**" section.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-27/087b657e-e852-4e6c-9f94-4c1f5c0b2a60/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1357,574&force_format=png&width=1120.0)
+
+
+15\. Click "**Themes**" button. Themes are created to define the style in which you want to display an element. They are temporary or informative states of the elements.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-26/638b6f36-e80c-4090-b1e0-9804eca9f284/ascreenshot.jpeg?tl_px=0,0&br_px=1032,575&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=322,408)
+
+
+16\. Click "**Add**" button to ad a new Theme.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-26/97122344-8263-431e-9260-704067e43f99/ascreenshot.jpeg?tl_px=0,0&br_px=1032,575&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=278,516)
+
+
+17\. Click "Roles" dropdown to select the roles that will have access to the Theme to be created.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-26/540a6d83-bb2f-4033-9dc2-06586d1ebebc/ascreenshot.jpeg?tl_px=0,0&br_px=1146,575&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=491,96)
+
+
+18\. Click the **selection box** of the role (s). For this example "**admin**" role.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-27/b87e2887-a666-40c7-beac-84b9424e930a/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1032,575&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=119,183)
+
+
+19\. Click "**Name**" text field (1). Type the name of the "**Theme**" to be created (2), for this example "**Theme-01**" and click "**Apply**" button (3).
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-27/d62cd9b0-64da-4838-a0aa-34ab3b8e5327/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1032,575&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=278,518)
+
+
+20\. Click "Close" button.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-27/269b4b71-7fe9-4da3-8ca2-6a055c89e256/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1032,575&force_format=png&width=1032&wat_scale=92&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=367,512)
+#### [Made with Scribe](https://scribehow.com/shared/New_MNG-INS-CNF-01_Installation_Set_Up__4KLHXvAHQwifzrpIMM_FSQ)
+
+
