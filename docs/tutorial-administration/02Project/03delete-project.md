@@ -9,80 +9,52 @@ This guide will help you delete a **Project** in the programme.
 ## **Prerequisites**
 1.	**User ID** and **Password** to access APXGIS programme.
 2.	Assigned **Admin Role** to the given user ID.
-2.	**Project** has been created prevously.
+3.	**Project** has been created prevously.
 
 
 ------------
 
 **Version**: 00
-**Date**: 13-10-2023
+**Date**: October-2023
 
 ------------
 ## **Step by Step**
 
 
-1\. To check that the project to be deleted exists, click "**Select Project**" dropdown.
-
-![](/img/MNG-PRO-DEL-01/MNG-PRO-DEL-01_STP01.png)
+1\. Navigate to [https://app.apx-gis.net/#/](https://app.apx-gis.net/#/)
 
 
-2\. Click the "**Search project**" field in the space labeled with "**Project name**"
+2\. Click "**Administration**" menu.
 
-![](/img/MNG-PRO-DEL-01/MNG-PRO-DEL-01_STP02.png)
-
-
-3\. Start typing the **name of the project** to be deleted, for this example "**test**"
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-27/8eeb4d14-bc34-4b21-9a79-7795738fbaad/ascreenshot.jpeg?tl_px=0,0&br_px=1921,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=82,53)
 
 
-4\. If the project to be deleted exist, its name will be displayed. Click on the name, for this example  "TEST_PROJECT_01".
+3\. Click "Projects"
 
-![](/img/MNG-PRO-DEL-01/MNG-PRO-DEL-01_STP04.png)
-
-
-**Alert**: If the project is displayed, you can continue with the following steps to delete the project.
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-27/0cae2300-839d-4129-87dc-34a78495e715/ascreenshot.jpeg?tl_px=0,0&br_px=1921,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=60,140)
 
 
-5\. Click "**Administration**" menu.
+4\. Select the project you want to delete, for this example  click "**Project-02**".
 
-![](/img/MNG-PRO-DEL-01/MNG-PRO-DEL-01_STP05.png)
-
-
-6\. Click "**Projects**" option.
-
-![](/img/MNG-PRO-DEL-01/MNG-PRO-DEL-01_STP06.png)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-27/4278fef9-d70f-4c05-b9d1-e2a2d01d4386/ascreenshot.jpeg?tl_px=0,0&br_px=1921,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=167,362)
 
 
-7\. Click "**Name**" field.
+5\. Click "**Delete**" button.
 
-![](/img/MNG-PRO-DEL-01/MNG-PRO-DEL-01_STP07.png)
-
-
-8\. Start typing the **name of the project** to be deleted, for this example "**test**"
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-27/c9199269-7c49-4903-97f2-1446a43dac00/ascreenshot.jpeg?tl_px=0,0&br_px=1921,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=18,402)
 
 
-9\. Click on the **name of the project,** for this example "**TEST_PROJECT_01**"
+6\. A deletion confirmation window will be opened. click "**Yes**" button.
 
-![](/img/MNG-PRO-DEL-01/MNG-PRO-DEL-01_STP09.png)
-
-
-10\. Click "**Delete**" button.
-
-![](/img/MNG-PRO-DEL-01/MNG-PRO-DEL-01_STP10.png)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-27/b5ae22c7-9dd2-4cc2-9fec-ba2628a34315/ascreenshot.jpeg?tl_px=0,0&br_px=1921,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=727,237)
 
 
-11\. The programme will display a confirmation , click "**Yes**" button.
+7\. Click "**Close**" button.
 
-![](/img/MNG-PRO-DEL-01/MNG-PRO-DEL-01_STP11.png)
-
-
-12\. Click "**Close**" button.
-
-![](/img/MNG-PRO-DEL-01/MNG-PRO-DEL-01_STP12.png)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-10-27/ba4c2d17-4af5-4f28-a5a7-64881138d345/ascreenshot.jpeg?tl_px=0,0&br_px=1921,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=312,401)
 
 
-13\. The project has been deleted. The browser must be refreshed.
+**Tip**: Project deleted. 
 
-![](/img/MNG-PRO-DEL-01/MNG-PRO-DEL-01_STP13.png)
+Remember to **refresh** your browser for the change to be reflected in the database.
 
-
-**Tip**: The project has been deleted from the database.
