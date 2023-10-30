@@ -1,8 +1,8 @@
 {
-    "label": "Element Types",
+    "label": "Elements",
     "position": 4,
     "link": {
       "type": "generated-index",
       "description": "Element Types documentation"
     }
-  }
+}
