@@ -134,5 +134,3 @@ Distribution Project
 
 
 **Tip**: The project has been created.
-
-
