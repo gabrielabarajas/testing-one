@@ -133,4 +133,4 @@ Distribution Project
 ![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01_STP21.png)
 
 
-**Tip**: The project has been created.
+**Outcome**: The project has been created.
