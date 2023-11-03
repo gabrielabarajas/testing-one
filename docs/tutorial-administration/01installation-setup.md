@@ -102,4 +102,4 @@ Click "**Close**" button to close "**Params**" window.
 
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-20.png)
 
-**Tip**: Installation setup completed.
+**Outcome**: Installation setup completed.
