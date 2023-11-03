@@ -30,7 +30,7 @@ This guide will help you **Configure the Installation** in the programme.
 
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-03.png)
 
-4\. "**Code**" this number is given by the programfor the installation.
+4\. "**Code**" this number is given by the programme for the installation.
 
 Click "**Name**", to set up the installation name, this name will be displayed on the top right corner, next to the company logo. For this example it was typed "**Company name**".
 
@@ -83,9 +83,10 @@ Click "**Close**" button to close "**Params**" window.
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-15.png)
 
 16\. Click "**Add**" button to ad a new Theme.
+
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-16.png)
 
-17\. Click "Roles" dropdown to select the roles that will have access to the Theme to be created.
+17\. Click "**Roles**" dropdown to select the roles that will have access to the Theme to be created.
 
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-17.png)
 
