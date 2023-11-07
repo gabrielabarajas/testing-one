@@ -54,7 +54,7 @@ This guide will help you delete a **Project** in the programme.
 ![](/img/MNG-PRO-DEL-01/MNG-PRO-DEL-01-STP-07.png)
 
 
-**Outcome**: Project deleted. 
+**Outcome**: Project deleted.
 
 Remember to **refresh** your browser for the change to be reflected in the database.
 

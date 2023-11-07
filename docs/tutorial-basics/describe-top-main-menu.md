@@ -94,4 +94,4 @@ In this window, you can change the full name, email address or password. Once yo
 "**Sign out**" option will log the user out of the programme.
 
 
-**Tip**: Top Main menu described.
+**Outcome**: Top Main menu described.
