@@ -17,7 +17,7 @@ This guide will help you undestand the **Top Main Menu**.
 ## **Step by Step**
 
 
-1\. Once logged into the programme, the main navigation screen will be as the following one.
+1\. Once logged into APX-GIS, the main navigation screen will be as the following one.
 
 The **Company Logo** will be set up for your programme. (Users with admin role, have the permission to change the logo by following the menu **Administration&gt;Installation setup**).
 

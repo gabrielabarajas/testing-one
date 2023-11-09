@@ -25,6 +25,7 @@ This guide will help you undestand the **Top Right Main Menu**.
 
 2\. The menu shows 4 options:
 
+![](/img/GEN-MEN-02/GEN-MEN-02-STP-02.png)
 1. **Themes**. A Theme represents a temporary way to view the different elements on the map.
 
 2. **Reference** **Carthography**. In this section you can select the type of map in which you want to see your projects.
@@ -35,31 +36,31 @@ This guide will help you undestand the **Top Right Main Menu**.
 
 4. **Types**. It refers to the types of elements you want to see. 
 
-![](/img/GEN-MEN-02/GEN-MEN-02-STP-02.png)
 
-
-3\. Click "**Themes**" dropdown to select the theme. If there are Themes previously created, this option will allow you select the one you want to see. If there are no Themes, this option will not be shown.
-
-Themes should be created following the menu: **Administration &gt; Installation setup &gt; Themes**
+3\. Click "**Themes**" dropdown to select the theme. 
 
 ![](/img/GEN-MEN-02/GEN-MEN-02-STP-03.png)
+If there are Themes previously created, this option will allow you select the one you want to see. If there are no Themes, this option will not be shown.
+
+Themes should be created following the menu: "**Administration &gt; Installation setup &gt; Themes**"
 
 
-4\. Click "**Reference cartography**" dropdown to select the type of map you wish to use. **Maps** should be created following the menu: **Administration &gt; Installation setup &gt; Map setup.**
+4\. Click "**Reference cartography**" dropdown to select the type of map you wish to use.
 
 ![](/img/GEN-MEN-02/GEN-MEN-02-STP-04.png)
+**Maps** should be created following the menu: "**Administration &gt; Installation setup &gt; Map setup.**"
 
 
 5\. Click "**Layers**" to select the layer containing the elements you want to see on the map.
 
+![](/img/GEN-MEN-02/GEN-MEN-02-STP-05.png)
 Layers should be created following the menu: **Administration &gt; Admin Layers &gt; +Add.**
 
-![](/img/GEN-MEN-02/GEN-MEN-02-STP-05.png)
 
-
-6\. Click "**Types**" dropdown to select the element types you want to see on the map. By default all elements are selected, select or deselect the element types you want to see on the map.
+6\. Click "**Types**" dropdown to select the element types you want to see on the map. 
 
 ![](/img/GEN-MEN-02/GEN-MEN-02-STP-06.png)
+By default all elements are selected, select or deselect the element types you want to see on the map.
 
 
-**Tip**: Top right main menu described.
+**Outcome**: Top right main menu described.

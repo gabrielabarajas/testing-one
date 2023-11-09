@@ -30,11 +30,13 @@ This guide will help you **Configure the Installation** in the programme.
 
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-03.png)
 
-4\. "**Code**" this number is given by the programme for the installation.
+4\. Setup window will be shown.
+
+![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-04.png)
+"**Code**" this number is given by the programme for the installation.
 
 Click "**Name**", to set up the installation name, this name will be displayed on the top right corner, next to the company logo. For this example it was typed "**Company name**".
 
-![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-04.png)
 
 5\. Click "**Choose**" button to select the company logo for the installation.
 
@@ -52,19 +54,22 @@ Click "**Name**", to set up the installation name, this name will be displayed o
 
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-08.png)
 
-9\. "**Params**"  (parameters) window will be displayed. This parameters are set according to the needs of the particular installation or client.
-
-Click "**Close**" button to close "**Params**" window.
+9\. "**Params**"  (parameters) window will be displayed. 
 
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-09.png)
+These parameters are set according to the needs of the particular installation or client.
+
+Click "**Close**" button to close "**Params**" window.
 
 10\. Click "**Map setup**" button to add or delete maps.
 
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-10.png)
 
-11\. The "**Map Setup**" window will be shown. To add a map, click the "**Reference cartography**" dropdown (1) and then select the map type (2), for this example "**Google Maps ROADMAP**".
+11\. The "**Map Setup**" window will be shown. 
 
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-11.png)
+To add a map, click the "**Reference cartography**" dropdown (1) and then select the map type (2), for this example "**Google Maps ROADMAP**".
+
 
 12\. You must click "**Plus (+)**" button after selecting the map type.
 
@@ -82,7 +87,7 @@ Click "**Close**" button to close "**Params**" window.
 
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-15.png)
 
-16\. Click "**Add**" button to ad a new Theme.
+16\. Click "**Add**" button to add a new Theme.
 
 ![](/img/MNG-INS-CNF-01/MNG-INS-CNF-01-STP-16.png)
 

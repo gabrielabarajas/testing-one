@@ -61,14 +61,7 @@ const config = {
           alt: 'My Site Logo',
           src: 'img/logo.png',
         },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorials',
-          },
-        ],
+
       },
       footer: {
         style: 'dark',

@@ -39,4 +39,4 @@ This guide will help you **Sign in** into APX GIS programme.
 ![](/img/GEN-SGN-01/GEN-SGN-01-STP05.png)
 
 
-**Tip**: Sign in completed.
+**Outcome**: Sign in completed.
