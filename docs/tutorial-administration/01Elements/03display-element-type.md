@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Display an Element Type
+# Display element type
 
 This guide will help you display an **Element Type**.
 

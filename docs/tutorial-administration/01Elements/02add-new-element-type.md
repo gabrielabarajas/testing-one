@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Add a new Element Type
+# Add new element type
 
 This guide will help you add a new **Element Type**.
 
