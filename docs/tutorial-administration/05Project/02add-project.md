@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Create a Project
+# Add a Project
 
 This guide will help you create a **Project** in the programme.
 

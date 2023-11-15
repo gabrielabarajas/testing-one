@@ -1,10 +1,10 @@
 ---
-sidebar_position: 2
+sidebar_position: 5
 ---
 
-# Display Layer
+# Update Layer
 
-This guide will help you **display a layer** in the programme.
+This guide will help you **update a layer** in the programme.
 
 ## **Prerequisites**
 1.	**User ID** and **Password** to access APXGIS programme.
@@ -15,6 +15,3 @@ This guide will help you **display a layer** in the programme.
 
 **Version**: 00
 **Date**: October-2023
-
-------------
-## **Step by Step**

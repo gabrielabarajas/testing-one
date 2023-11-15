@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-# Create Layer
+# Add a new layer
 
-This guide will help you **create a layer** in the programme.
+This guide will help you **add a layer** in the programme.
 
 ## **Prerequisites**
 1.	**User ID** and **Password** to access APXGIS programme.

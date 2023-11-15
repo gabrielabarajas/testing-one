@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-# Delete Layer
+# Display layer
 
 This guide will help you **display a layer** in the programme.
 
@@ -15,3 +15,6 @@ This guide will help you **display a layer** in the programme.
 
 **Version**: 00
 **Date**: October-2023
+
+------------
+## **Step by Step**
