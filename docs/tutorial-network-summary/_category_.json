@@ -1,0 +1,8 @@
+{
+    "label": "Network Summary",
+    "position": 4,
+    "link": {
+      "type": "generated-index",
+      "description": "Tutorial for Network Summary Menu."
+    }
+  }
