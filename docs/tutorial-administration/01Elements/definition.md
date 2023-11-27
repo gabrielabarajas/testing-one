@@ -24,4 +24,10 @@ Different elements can be created at any time via the menu
 
 ## **Infographic**
 
-![](/img/GEN-DES-01/Default_Element_Types.png)
+![](/img/GEN-DES-01/DefaultElementTypes.png)
+
+
+![](/img/GEN-DES-01/ElementTypesMenu.png)
+
+
+![](/img/GEN-DES-01/DefaultElementTypesMap.png)
