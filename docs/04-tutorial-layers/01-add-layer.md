@@ -63,7 +63,10 @@ This guide will help you **add a layer** in the programme.
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-12-26/396e34fa-e3a1-4f0c-8f62-ab7a9a6eefe4/screenshot.jpeg?tl_px=0,0&br_px=1912,883&force_format=png&width=1120.0)
 
 
-Alert: **Description of layer types.**
+**Alert:** 
+
+
+**Description of layer types.**
 
 **Normal**: accepts styles, responds well with less than 10,000 elements per project per layer.
 
