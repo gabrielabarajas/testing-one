@@ -1,7 +1,7 @@
 ---
 sidebar_position: 0
 ---
-# Maps
+# Definition
 
 This guide will help you undetrstand **Maps** in APX GIS programme.
 
@@ -17,4 +17,4 @@ This guide will help you undetrstand **Maps** in APX GIS programme.
 ## **Infographic**
 
 
-![](/img/GEN-MAP-DEF/GEN-MAP-DEF-Map.gif)
+![](/img/GEN-MAP-DEF/GEN-MAP-DEF-Map.jpg)
