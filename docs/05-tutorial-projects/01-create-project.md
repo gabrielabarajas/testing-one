@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Add a Project
@@ -113,4 +113,4 @@ The different statuses are defined by the client and can be edited via the menu 
 
 ![](/img/MNG-PRO-CRE-01/MNG-PRO-CRE-01-STP-20.png)
 
-**Outcome**: The project has been created.
+**Tip**: The project has been created.

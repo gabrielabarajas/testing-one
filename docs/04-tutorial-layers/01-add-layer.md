@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Add a new layer
+# Add a layer
 
 This guide will help you **add a layer** in the programme.
 
