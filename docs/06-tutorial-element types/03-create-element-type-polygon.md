@@ -116,7 +116,7 @@ Display type in map selector -
 
 Display in popup -
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-04/93ff6722-8ae8-4ce5-a762-2b9652a28de3/ascreenshot.jpeg?tl_px=0,203&br_px=825,664&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=13,204)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-04/93ff6722-8ae8-4ce5-a762-2b9652a28de3/ascreenshot.jpeg?tl_px=0,0&br_px=1921,887&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=-12,217)
 
 
 15\. Click "**Apply**" button.
@@ -138,7 +138,7 @@ Tip: Polygon element type created.
 
 **Important:** At this point you have created the element type that can only be used in the general layer.
 
-So that this new element type can be used in other layers, you have to assign it to the layer via the menu: Administration &gt; Admin Layers &gt; "Layer" &gt; Allowed Element Types.
+So that this new element type can be used in other layers, you have to assign it to the layer via the menu: **Administration &gt; Admin Layers &gt; "Layer" &gt; Allowed Element Types**.
 
 See "**Add element type to a layer**" procedure.
 
