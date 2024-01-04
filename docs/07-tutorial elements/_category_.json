@@ -1,8 +1,9 @@
 {
     "label": "Elements",
-    "position": 2,
+    "position": 7,
     "link": {
       "type": "generated-index",
-      "description": "Element Types documentation"
+      "description": "Procedures related to elements."
     }
-}
+  }
+  
