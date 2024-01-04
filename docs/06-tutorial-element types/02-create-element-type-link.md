@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Create Node element type LINK
+# Create new element type LINK
 
 This guide will help you create a **Link Element type** in the programme.
 

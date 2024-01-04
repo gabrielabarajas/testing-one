@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Create Node element type NODE
+# Create new element type NODE
 
 This guide will help you create a **Node Element type** in the programme.
 
