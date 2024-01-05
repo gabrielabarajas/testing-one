@@ -1,8 +1,8 @@
 {
     "label": "Icons",
-    "position": 3,
+    "position": 7,
     "link": {
       "type": "generated-index",
-      "description": "Icons documentation"
+      "description": "Basic concepts of icons."
     }
-}
+  }
