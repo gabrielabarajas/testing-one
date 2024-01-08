@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Create new element
+# Create new element (Operations)
 
-This guide will help you create an **Element** using Operations' menu.
+This guide will help you create an **Element** using **Operations** menu.
 
 ## **Prerequisites**
 1.	**User ID** and **Password** to access APXGIS programme.
