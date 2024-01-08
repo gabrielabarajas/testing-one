@@ -17,10 +17,6 @@ This guide will help you create an **Element** using the **Map**.
 ------------
 ## **Step by Step**
 
-# MNG-LMT-CRE-02 Create element trough Map
-#### [Made by Gaby Barajas M with Scribe](https://scribehow.com/shared/MNG-LMT-CRE-02_Create_element_trough_Map__YmSqphfpR7m9myOjN_w3Rw)
-
-
 1\. Navigate to [https://app.apx-gis.net/#/](https://app.apx-gis.net/#/)
 
 
