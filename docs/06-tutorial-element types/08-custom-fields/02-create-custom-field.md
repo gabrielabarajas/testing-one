@@ -44,10 +44,10 @@ This guide will help you add a new **Custom field**.
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-22/01ea04e5-e7e5-4091-93ca-feb386534666/ascreenshot.jpeg?tl_px=0,0&br_px=953,549&force_format=png&width=983&wat_scale=87&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=587,23)
 
 
-Alert: The elements configured by default in the system have the following "**Names**".
+**Alert:** The elements configured by default in the system have the following "**Names**".
 
-If a new "**Element type**" has been created, verify the "**Name**" through the path:\
-**Administration &gt;&gt; Element Type&gt;&gt; new name "Element type".**
+If a new "**Element type**" has been created, verify the "**Name**" through the path:
+**Administration &gt; Element Type&gt; new name "Element type".**
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-22/700d958d-2ee5-491a-ab2f-be33ba51ed67/screenshot.png?tl_px=0,0&br_px=430,481&force_format=png&width=768)
 
@@ -109,7 +109,7 @@ If a new "**Element type**" has been created, verify the "**Name**" through the 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-22/79b7bbf3-48f1-4449-a5ef-c72f3b5223ae/ascreenshot.jpeg?tl_px=0,0&br_px=953,891&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=194,357)
 
 
-17\. Click "Apply"
+17\. Click "**Apply**" button.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-22/31fcd757-0d61-4d0d-84d6-a4918fc183aa/ascreenshot.jpeg?tl_px=0,0&br_px=953,891&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=217,993)
 
@@ -123,4 +123,4 @@ If a new "**Element type**" has been created, verify the "**Name**" through the 
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-23/45096fd2-0a60-4e34-b411-21ea51fbc8bd/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=953,891&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=337,980)
 
-**Outcome:** Custom field created.
+**Tip:** Custom field created.

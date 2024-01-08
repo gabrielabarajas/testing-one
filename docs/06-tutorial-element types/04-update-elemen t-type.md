@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Update Element type 
+# Update element type 
 
 This guide will help you delete an **Element type** in the programme.
 
