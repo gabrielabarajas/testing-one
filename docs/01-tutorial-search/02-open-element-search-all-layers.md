@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
 ---
-# Open element from search results
+# Open element from search results (All layers)
 
-This guide will help you **open element** from search results in APX GIS programme.
+This guide will help you **open element** from search results selecting "**All layers**" option in APX GIS programme.
 
 ## **Prerequisites**
 1.	**User ID** and **Password** to access APX-GIS programme.

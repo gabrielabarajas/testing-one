@@ -20,7 +20,7 @@ This guide will help you **select the basemap** in APX GIS programme.
 1\. Navigate to [https://app.apx-gis.net/#/](https://app.apx-gis.net/#/)
 
 
-2\. Place the mouse pointer over the map option (top right side).
+2\. Place the mouse pointer over the "**Map options**" (top right side).
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-12-25/1a6cc140-93f2-49b4-b186-bd32d6da3863/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1918,895&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=1066,20)
 
