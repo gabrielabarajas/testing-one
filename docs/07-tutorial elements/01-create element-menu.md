@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Create new element (Operations)
+# Create new element (Operations menu)
 
 This guide will help you create an **Element** using **Operations** menu.
 
