@@ -9,7 +9,7 @@ sidebar_position: 0
 **Codifier** is a field found in the detail section of an element.
 
 
-This codifier is built up of a Code and a Description and when set in advance it allows the field to be filled with a predefined code.
+This codifier is built up of a Code and a Description and when set in advance, it will be easier to select a value for field rather than type it.
 
 ## **Prerequisites**
 1.	No prerequisites.
