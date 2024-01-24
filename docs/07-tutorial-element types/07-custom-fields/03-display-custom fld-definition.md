@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Display Custom Field definition.
+# Display custom field definition
 
 This guide will help you display a **Custom field** definition.
 

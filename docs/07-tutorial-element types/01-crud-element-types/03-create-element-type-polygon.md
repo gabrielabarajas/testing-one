@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Create new Element type POLYGON
+# Add new element type POLYGON
 
 This guide will help you create a **POLYGON Element type** in the programme.
 
