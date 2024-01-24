@@ -14,11 +14,10 @@ This guide will help you create a **Link Element type** in the programme.
 ------------
 
 **Version**: 00
-**Date**: December-2023
+**Date**: February-2024
 
 ------------
 ## **Step by Step**
-
 
 1\. Navigate to [https://app.apx-gis.net/#/](https://app.apx-gis.net/#/)
 
@@ -40,28 +39,32 @@ This guide will help you create a **Link Element type** in the programme.
 
 5\. The new element type window will open. From this point you must enter the data corresponding to the new element you are creating.
 
+
  Click "**Name**" field and type the name. This name is used to identify the element in APX-GIS tables. The best practice is to use lower case and no spaces.
 
- For this example "south-link" was typed.
+ For this example "**south-link**" was typed.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-04/b8366e29-5efb-4236-8808-e1e2bc1124df/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=825,461&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=115,43)
 
 
 6\. Click "**Type**" dropdown and select a type for the element.
 
- **Important**: There are three general types of elements:
+**Important**: There are three general types of elements:
 
- The "**Node**" element is set as an icon on the map.\
- The "**Link**" element is set as a line or series of lines, marking the points where it passes through (start and end) (no icon is needed on the map)\
- The "**Polygon**" element is set by drawing the lines that define its shape (no icon is needed on the map).
+The "**Node**" element is set as an icon on the map.
 
- Select "**Link**" type.
+The "**Link**" element is set as a line or series of lines, marking the points where it passes through (start and end) (no icon is needed on the map)
+
+The "**Polygon**" element is set by drawing the lines that define its shape (no icon is needed on the map).
+
+Select "**Link**" type.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-04/d1820b6b-02c7-4f4f-8a51-06fe666b9b62/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=825,461&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=125,82)
 
 
 7\. Click "**Title**" field and type the tilte. This title is used to display an element's reference or name that the user will see in the programme. The best practice is to use lower case and no spaces and use a similar string as the "**Name**" field.
 
+\
  For this example, "**south-link**" was typed.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-04/421aadd2-ec6a-488c-aed3-168cef47411c/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=825,461&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=127,132)
@@ -77,29 +80,66 @@ This guide will help you create a **Link Element type** in the programme.
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-04/d8718b63-a803-411b-9b58-7deb98376e0d/ascreenshot.jpeg?tl_px=0,0&br_px=1719,887&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=-15,149)
 
 
-10\. Click "**Map options**".
+10\. Click "**Map options**" option.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-04/272f9ccd-8068-4b34-aa56-0fed68a1a79e/ascreenshot.jpeg?tl_px=0,167&br_px=825,628&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=51,204)
 
 
-11\. Click "**Show in map**" option
+11\. Click "**Show in map**" option.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-04/ebf23d8d-c08c-400f-8419-4394305be4e5/ascreenshot.jpeg?tl_px=0,221&br_px=825,682&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=36,204)
 
 
-12\. Type the name of the **Map style** that represent the style for the new element type you are creating and hit &lt;**Enter**&gt;. For this example "d**efault facade**" was typed.
+12\. One way to assign a **Map Style** is:
 
-All Map styles are available on the route: **Administration &gt; Map Styles** (See Map Styles documentation)
+**Option 1**: Type the name of the **Map style** that represent the style for the new element type you are creating and hit &lt;Enter&gt;. All Map styles are available on the route:
+
+ **Administration &gt; Map Styles** (See Map Styles documentation)
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-04/fde8ba22-1f37-4d11-b7eb-d9aa7614023f/user_cropped_screenshot.jpeg?tl_px=0,225&br_px=1146,866&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=110,277)
 
 
-13\. Click "**Add/Edit**" option.
+13\. Another way to assign a **Map Style** is:
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-04/62274910-bbeb-47d8-a6ba-4a3ffa535579/user_cropped_screenshot.jpeg?tl_px=0,210&br_px=825,671&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=14,204)
+**Option 2**: If you do not want to assign a previous Map Style, you are able to do it on the way. Click on the default Style field and type a name for the map. For this example "**newfacade**" was typed.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/520c1a16-7cd7-49dd-ade7-03fe6dcc0887/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=849,882&force_format=png&width=1078&wat_scale=96&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=174,664)
 
 
-14\. Remember that an element can be added to the project and layer by right clicking on the map or by following the menu "**Operations &gt; New element**".
+14\. **Option 2:** Click the "**Edit**" button.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/64d89a3f-a934-4b98-b389-935b7f6ffae1/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=849,882&force_format=png&width=1078&wat_scale=96&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=352,659)
+
+
+15\. **Option 2:** The new Map Style window will open. Click "**Type**" dropdown and select **Link**.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/3787508f-c680-430c-a3a2-8e540665e1a9/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=586,882&force_format=png&width=744&wat_scale=66&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=659,124)
+
+
+16\. **Option 2:** Click "**Color**" field and select the color.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/7454cc83-0920-4a59-9b1b-5019635422a7/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=586,882&force_format=png&width=744&wat_scale=66&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=582,189)
+
+
+17\. **Option 2:** Click "**Width**" field and selec the width.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/af03b9ac-c039-4941-81d0-461f46006b34/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=586,884&force_format=png&width=742&wat_scale=66&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=600,245)
+
+
+18\. **Option 2:** Click "**Apply**" button.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/8d64d74d-7e90-44b3-ae56-adf9c038b81b/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=586,882&force_format=png&width=744&wat_scale=66&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=337,1062)
+
+
+**Tip:** The map style at this pont has beed defined.
+
+
+19\. Click "**Add/Edit**" option.
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-04/62274910-bbeb-47d8-a6ba-4a3ffa535579/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1719,887&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=-9,251)
+
+
+20\. Remember that an element can be added to the project and layer by right clicking on the map or by following the menu "**Operations &gt; New element**". 
 
 When creating a new element type, in this section you define where the element can be added from:
 
@@ -114,44 +154,43 @@ Display in popup -
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-04/0d3c869b-7da3-4e3a-8c12-3a0f4617c827/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1921,887&force_format=png&width=1120.0)
 
 
-15\. Click "**Relations**" option.
+21\. Click "**Relations**" option.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-04/dbe31fb2-c504-423a-a15d-5f76ca4f1bb0/ascreenshot.jpeg?tl_px=0,246&br_px=1146,887&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=5,320)
 
 
-16\. As a link element type, the relation that can be defined id: 
+22\. As a link element type, the relation that can be defined id: 
 
 Can end in -
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-04/96ceb5b8-0c3d-4651-97bb-3a111e2befa4/ascreenshot.jpeg?tl_px=0,117&br_px=1376,887&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=462,315)
 
 
-17\. For this example "**Central Node**" was selected.
+23\. For this example "**Central Node**" was selected.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-04/17dd07fc-1a08-40ea-abb9-59caf26c17a4/ascreenshot.jpeg?tl_px=0,425&br_px=825,887&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=197,226)
 
 
-18\. Click "**Apply**" button.
+24\. Click "**Apply**" button.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-04/d66a6b64-9808-4ebe-bbc5-600edfc3ead7/ascreenshot.jpeg?tl_px=0,425&br_px=825,887&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=271,414)
 
 
-19\. Click "**Close**" button.
+25\. Click "**Close**" button.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-04/c704b51e-a6b3-47c9-ab4e-70bf062f7152/ascreenshot.jpeg?tl_px=489,0&br_px=1865,769&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=524,171)
 
 
-20\. Click "**Close**" button.
+26\. Click "**Close**" button.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-04/7c7117f1-bd1a-4200-8164-6afca9ee7c69/ascreenshot.jpeg?tl_px=0,246&br_px=1146,887&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=292,561)
 
 
-**Tip:** Tip! Link element type created.
+**Tip:** Link element type created.
 
-**Important:** At this point you have created the element type that can only be used in the general layer.
+**Important**: At this point you have created the element type that can only be used in the general layer.
 
+So that this new element type can be used in other layers, you have to assign it to the layer via the menu: **Administration &gt; Admin Layers &gt; "Layer" &gt; Allowed Element Types.**
 
-So that this new element type can be used in other layers, you have to assign it to the layer via the menu:**[[Administration &gt; Admin Layers &gt; "Layer" &gt; Allowed Element Types]]**.\
-
-
+See "**Add element type to a layer**" procedure.
 

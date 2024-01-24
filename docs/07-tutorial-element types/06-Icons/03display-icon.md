@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Display icon
@@ -13,7 +13,7 @@ This guide will help you display list of available **icons**.
 ------------
 
 **Version**: 00
-**Date**: October-2023
+**Date**: February-2024
 
 ------------
 ## **Step by Step**

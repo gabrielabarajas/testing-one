@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Delete icon
@@ -13,7 +13,7 @@ This guide will help delete an **icon**.
 ------------
 
 **Version**: 00
-**Date**: October-2023
+**Date**: February-2024
 
 ------------
 ## **Step by Step**

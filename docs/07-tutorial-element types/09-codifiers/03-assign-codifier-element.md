@@ -2,9 +2,9 @@
 sidebar_position: 3
 ---
 
-# Assign codifier to an element
+# Update codifier value of an element
 
-This guide will help you create assign a **Codifier** to an **Element**.
+This guide will help you update a **Codifier** value of an **Element**.
 
 ## **Prerequisites**
 1.	**User ID** and **Password** to access APXGIS programme.

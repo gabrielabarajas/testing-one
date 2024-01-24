@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Update element type 
+# Update element type
 
 This guide will help you delete an **Element type** in the programme.
 
@@ -14,7 +14,7 @@ This guide will help you delete an **Element type** in the programme.
 ------------
 
 **Version**: 00
-**Date**: December-2023
+**Date**: January-2024
 
 ------------
 ## **Step by Step**

@@ -13,7 +13,7 @@ This guide will help you add a new **Icon**.
 ------------
 
 **Version**: 00
-**Date**: October-2023
+**Date**: February-2024
 
 ------------
 ## **Step by Step**
@@ -62,4 +62,4 @@ This guide will help you add a new **Icon**.
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-22/f3e234cf-912b-4111-ba48-65cca00037cb/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=583,895&force_format=png&width=730&wat_scale=65&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=345,1062)
 
 
-**Outcome:** New icon added.
+**Tip:** New icon added.
