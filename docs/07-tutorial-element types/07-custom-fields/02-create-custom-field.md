@@ -44,9 +44,9 @@ This guide will help you add a new **Custom field**.
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-22/01ea04e5-e7e5-4091-93ca-feb386534666/ascreenshot.jpeg?tl_px=0,0&br_px=953,549&force_format=png&width=983&wat_scale=87&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=587,23)
 
 
-**Alert:** The elements configured by default in the system have the following "**Names**".
+**Alert:** The Element Types configured by default in the system have the following "**Names**".
 
-If a new "**Element type**" has been created, verify the "**Name**" through the path:
+If a new "**Element Type**" has been created, verify the "**Name**" through the path:
 **Administration &gt; Element Type&gt; new name "Element type".**
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-22/700d958d-2ee5-491a-ab2f-be33ba51ed67/screenshot.png?tl_px=0,0&br_px=430,481&force_format=png&width=768)

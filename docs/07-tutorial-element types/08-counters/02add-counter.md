@@ -46,9 +46,9 @@ This guide will help you add a new **counter**.
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-11-20/a10981e0-a740-4b56-9631-63b407897647/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=959,891&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=142,98)
 
 
-Tip: The counter "format" uses 0's as place holder for numeric part of the next generated code. For instance: if "format" is set to ABC00000 and the "last" is at 4909, the generated code will beABC04910
+**Tip:** The counter "**format**" uses 0's as place holder for numeric part of the next generated code. For instance: if "**format**" is set to ABC00000 and the "**last**" is at 4909, the generated code will beABC04910
 
-If no "format" is specified, the value of "last" +1 will used when creating a new element of the type
+If no "**format**" is specified, the value of "**last**" +1 will used when creating a new element of the type
 
 If the counter is not used, make sure that it is referred to in the element type parameters with the same name
 
