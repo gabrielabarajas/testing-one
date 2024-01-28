@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Display Layers
+# Display layers
 
 This guide will help you **display elements of a layer** in the programme.
 
