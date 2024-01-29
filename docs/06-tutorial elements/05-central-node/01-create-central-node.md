@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Create central node
+# Add Central node
 
 This guide will help you create a **central node** in the programme.
 
@@ -32,7 +32,7 @@ Click "**Select Project**" option.
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-26/56eb979b-fa44-4225-983e-514baeed7d8e/ascreenshot.jpeg?tl_px=0,0&br_px=825,461&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=337,126)
 
 
-4\. To place the elements in the project, you have two options:
+4\. To place the elements in the project, there are two options available to do it:
 
 **Option 1:** Through the menu "**Operations &gt; New Central Node**" and then indicate on the map where we want to place it.
 
@@ -57,13 +57,13 @@ Click the desired location.
 
 7\. When creating an element, the basic fields are requested:
 
-**Location :** These are filled automatically indicating the coordinates of the selected location.
+- **Location :** These are filled automatically indicating the coordinates of the selected location.
 
-**Id:** if you have a Counter assigned, this field will be filled automatically.
+- **Id:** if you have a Counter assigned, this field will be filled automatically.
 
-**Description:** You must enter the description of the element.
+- **Description:** You must enter the description of the element.
 
-**Layer:** you must assign the element to one or several layers.
+- **Layer:** you must assign the element to one or several layers. If no assigned to any layer, it will be placed into "**Default**" layer.
 
 For this example the "**id**" field was automatically filled and for the description it was typed "**central-node-valls-25"**.
 
@@ -107,16 +107,15 @@ Click the element that has been created.
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-26/204dca04-5bdd-4b17-bb2a-3609db43e3db/ascreenshot.jpeg?tl_px=0,0&br_px=825,461&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=381,196)
 
 
-15\. The status field is assigned to all elements.
+15\. Element window will be opened (Central node), click "**Status**" field and a drop down menu will be shown. The "**Status**" field is assigned to all elements. For this example "**Active**" status was selected.
 
-\
-To know which values can be assigned to this field, follow the menu:
+To edit or add values to "**Status**" field follow the menu:
 
 "**Administration&gt;Codifiers&gt;Element state**".
 
 Please refer to the documentation "**Element types &gt; Codifiers**".
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-26/5ca2c3fb-82a4-436e-861a-7e6b2d576c2d/ascreenshot.jpeg?tl_px=0,0&br_px=952,549&force_format=png&width=983&wat_scale=87&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=616,241)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/36c736fc-453f-4232-920f-a0f9538ebc57/user_cropped_screenshot.jpeg?tl_px=0,31&br_px=859,512&force_format=png&width=860&wat_scale=76&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=593,212)
 
 
 16\. To continue entering the element information click on "**Details**" option.
