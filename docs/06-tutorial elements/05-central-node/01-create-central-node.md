@@ -65,7 +65,7 @@ Click the desired location.
 
 - **Layer:** you must assign the element to one or several layers. If no assigned to any layer, it will be placed into "**Default**" layer.
 
-For this example the "**id**" field was automatically filled and for the description it was typed "**central-node-valls-25"**.
+For this example the "**id**" field was automatically filled and for the "**Description**" it was typed "**central-node-valls-25"**.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/0b4fc0ca-dc7f-40fc-8886-50ad32dd7d23/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=825,461&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=110,192)
 

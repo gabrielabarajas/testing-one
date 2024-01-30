@@ -1,9 +1,9 @@
 {
-    "label": "Chamber",
+    "label": "Chambers",
     "position": 6,
     "link": {
       "type": "generated-index",
-      "description": "Procedures related to Chamber."
+      "description": "Procedures related to Chambers."
     }
   }
   

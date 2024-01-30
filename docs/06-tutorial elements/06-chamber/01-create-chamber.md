@@ -60,7 +60,7 @@ Click the desired location.
 
 - **Layer:** you must assign the element to one or several layers.
 
-For this example the "**id**" field was automatically filled and for the description it was typed "**Privately Owned"**.
+For this example the "**id**" field was automatically filled and for the "**Description**" it was typed "**Privately Owned"**.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/593ab914-f011-405c-846b-c636fb26e634/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=1238,692&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=142,260)
 
