@@ -75,7 +75,7 @@ For this example the "**id**" field was automatically filled and for the "**Desc
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/88e3ea68-3bef-4720-bab0-665d3c29f165/ascreenshot.jpeg?tl_px=0,98&br_px=1238,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=285,443)
 
 
-10\. Click "Apply"
+10\. Click "**Apply**" button.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/021bffc7-58b1-4a82-9620-94ed4b5e9153/ascreenshot.jpeg?tl_px=0,98&br_px=1238,791&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=308,569)
 
@@ -142,7 +142,7 @@ If there are connected ducts assigned to the Central Node, they will be shown at
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/406b1a2f-5d61-4390-a879-6b3c5986cff2/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=860,885&force_format=png&width=1088)
 
 
-17\. If you need to assign the element to another project, click "**Projects**" dropdown and you will se the current project (Selected in the firsts steps of this document) click "**Add to project**" button.
+17\. If you need to assign the element to another project, click "**Projects**" dropdown and you will see the current project (Selected in the firsts steps of this document) click "**Add to project**" button.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/e442b20f-2d97-4f98-bdf2-9fe2396a07f2/user_cropped_screenshot.jpeg?tl_px=0,118&br_px=860,888&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=672,564)
 
