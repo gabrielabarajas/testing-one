@@ -1,0 +1,8 @@
+{
+    "label": "Splitter box",
+    "position": 14,
+    "link": {
+      "type": "generated-index",
+      "description": "Procedures related to spliter boxes."
+    }
+}
