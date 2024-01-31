@@ -1,0 +1,8 @@
+{
+    "label": "Subduct",
+    "position": 8,
+    "link": {
+      "type": "generated-index",
+      "description": "Procedures related to Subducts."
+    }
+}
