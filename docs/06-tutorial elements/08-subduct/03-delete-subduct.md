@@ -61,8 +61,8 @@ Click "**Select Project**" option.
 
 Remember:
 
-1. **Subducts containing Cables** (directly or via a Microduct), will **NOT** be deleted. In this case you need to delete or take out the cable fron the subduct.
-2. **Subducts with No Cables**, containing Microducts or not will be deletd after confirmation.
+1. **Subducts containing Cables** (directly or via a Microduct), will **NOT** be deleted. In this case you need to delete or take out the cable from the subduct.
+2. **Subducts with No Cables**, containing Microducts (or not) will be deleted after confirmation.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-31/56182def-7193-49ad-bc84-b163b4b9e679/ascreenshot.jpeg?tl_px=0,0&br_px=961,887&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=-11,966)
 
