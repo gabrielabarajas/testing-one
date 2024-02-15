@@ -34,6 +34,7 @@ Click "**Select Project**" option.
 
 4\. To place the elements in the project, there are two options available to do it:
 
+\
 **Option 1:** Through the menu "**Operations &gt; New Central Node**" and then indicate on the map where we want to place it.
 
 **Option 2:** Go to the map first and select the point where we want to place the element and "**right click**". The element window will appear. Select "**Central node**".
@@ -48,24 +49,22 @@ For this example, click "**Operations**" option.
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-26/e2a7bf35-f289-45c0-ae05-abc7ce6f3580/ascreenshot.jpeg?tl_px=0,0&br_px=952,769&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=106,369)
 
 
-6\. The programme will send a message at the top ( \* ) requestint to define a location.
+6\. The programme will send a message at the top ( \* ) requesting to define a location.
 
 Click the desired location.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-26/ca717483-b860-4677-8192-ce385c990c02/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=747,717&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=562,589)
 
 
-7\. When creating an element, the basic fields are requested:
+7\. When creating an element, the basic fields must be filled:
 
-- **Location :** These are filled automatically indicating the coordinates of the selected location.
+\
+**Location :** These are filled automatically indicating the coordinates of the selected location.\
+**Id:** if you have a Counter assigned, this field will be filled automatically.\
+**Description:** You must enter the description of the element.\
+**Layer:** you must assign the element to one or several layers. If no assigned to any layer, it will be placed into "**Default**" layer.
 
-- **Id:** if you have a Counter assigned, this field will be filled automatically.
-
-- **Description:** You must enter the description of the element.
-
-- **Layer:** you must assign the element to one or several layers. If no assigned to any layer, it will be placed into "**Default**" layer.
-
-For this example the "**id**" field was automatically filled and for the "**Description**" it was typed "**central-node-valls-25"**.
+For this example the "**id**" field was automatically filled and for the description it was typed "**central-node-valls-25"**.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/0b4fc0ca-dc7f-40fc-8886-50ad32dd7d23/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=825,461&force_format=png&width=826&wat_scale=73&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=110,192)
 
@@ -85,7 +84,7 @@ For this example the "**id**" field was automatically filled and for the "**Desc
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-26/d18fdf79-f47b-4961-8a6a-39dc524f745e/ascreenshot.jpeg?tl_px=0,327&br_px=952,877&force_format=png&width=983&wat_scale=87&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=219,502)
 
 
-11\. If the layer to which you are assigning the element is not active, the program will send you a message indicating that you will not be able to see the element unless you activate it.  Click "**Close**" button.
+11\. If the layer to which you are assigning the element is not active, the program will send you a message indicating that you will not be able to see the element unless you activate it. Click "**Close**" button.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-26/4481b772-074b-4f58-b672-fca00d982dc3/ascreenshot.jpeg?tl_px=0,0&br_px=952,640&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=788,304)
 
@@ -130,12 +129,15 @@ Please refer to the documentation "**Element types &gt; Codifiers**".
 - **Dimensions:** It can b typed the number value for X, Y, and Z
 
 - **Manufacturer:** The value is a codifier (it has a previous value to select from). You have to follow the menu "**Administration&gt; Codifiers&gt;Central Node Manufacturer**" and click "**+Add "** button to enter the description of the manufacturer. 
+
 Please refer to the documentation (**Element types &gt; Codifiers**)
 
 - **Model**: The value is a codifier (it has a previous value to select from). You have to follow the menu "**Administration&gt; Codifiers&gt;Central Node Type**" and click "**+Add "** button to enter the description of the Central Node Type. 
+
 Please refer to the documentation (**Element types &gt; Codifiers**)
 
 - **Environtment**: The value is a codifier (it has a previous value to select from). You have to follow the menu "**Administration&gt; Codifiers&gt;Chamber environment**" and click "**+Add "** button to enter the description of an Environment. 
+
 Please refer to the documentation (**Element types &gt; Codifiers**)
 
 - **Installation Date**: the value of this fiel should follow date format.
@@ -144,18 +146,19 @@ Please refer to the documentation (**Element types &gt; Codifiers**)
 
 - **Comments**: If you whish to add information for the Central node, you cas type it in this field.
 
-![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-26/faa84b4e-69ca-486d-88d4-f85d000b414a/ascreenshot.jpeg?tl_px=0,0&br_px=952,877&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=669,551)
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-29/d63616a2-d8cc-4983-a183-19bda11fb8c6/user_cropped_screenshot.jpeg?tl_px=0,0&br_px=952,877&force_format=png&width=1120.0&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/14B8A6_standard.png&wat_pad=669,551)
 
 
-18\. If you have defined "**Custom Fields**" for the Central Node, the section will follow "**Details**" section. 
-Please refer to "**Element Types &gt; Custon Fields**" documentation.
+18\. If you have defined "**Custom Fields**" for the Central Node, the section will follow "**Details**" section.
+
+Please refer to "**Element Types &gt; Custom Fields**" documentation.
 
 Click "**Custon fields**" option
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-28/47e13570-473d-42ef-8060-1056cc35da82/screenshot.jpeg?tl_px=0,0&br_px=1505,803&force_format=png&width=1120.0)
 
 
-19\. For this example "Installer's name" was set up as a custom field.  Youmay have other custom fields or need to configure some. Please refer to the "Element type &gt; Custom Fields" documentation.
+19\. For this example "**Installer's name**" was set up as a custom field. Youmay have other custom fields or need to configure some. Please refer to the "Element type &gt; Custom Fields" documentation.
 
 Click specific "**Custon field**" dropdown. For this example, "**Installer's name**" was clicked.
 
@@ -199,4 +202,3 @@ If there are connected ducts assigned to the Central Node, they will be shown at
 
 
 **Tip:** Central node created with detailed information.
-
