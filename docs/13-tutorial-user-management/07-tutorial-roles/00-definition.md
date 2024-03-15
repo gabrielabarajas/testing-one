@@ -8,7 +8,7 @@ This guide will help you undetrstand **Roles** in APX GIS programme.
 ------------
 
 **Version**: 00
-**Date**: MArch 2024
+**Date**: March 2024
 
 ------------
 
