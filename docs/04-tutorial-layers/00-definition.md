@@ -5,9 +5,6 @@ sidebar_position: 0
 
 This guide will help you undetrstand **Maps** in APX GIS programme.
 
-## **Prerequisites**
-1.	No prerequisites.
-
 ------------
 
 **Version**: 00
