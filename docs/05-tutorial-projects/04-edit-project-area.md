@@ -6,13 +6,15 @@ sidebar_position: 4
 
 This guide will help you edit the **project area** in the programme.
 
-## **Prerequisites**
-1.	**User ID** and **Password** to access APXGIS programme.
+## **Standard roles allowed to perform the following steps in the programme **
+
+1.	**Administrator**
+2.  **Planner**
 
 ------------
 
 **Version**: 00
-**Date**: December-2023
+**Date**: March 2024
 
 ------------
 ## **Step by Step**

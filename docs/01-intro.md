@@ -10,10 +10,10 @@ Each section has the following documents:
 - **Definition:** brief explanation of the concept through an infographic.
 - **Step by step:** Document that contains the details of each of the steps to follow to perform the task in APXGIS.
 In the Prerequisites section of this document it is indicated which roles can carry out the task to be described.
-The following roles are considered:
-1. **Administrator:** Can do configuration tasks, have access to the whole administration menu (Roles, Element types, imports), as well as planner and operator tasks.
-2. **Planner:** Can create projects and assign elements to the different projects.
-3. **Operator:** by assigning one or more projects, this role can add or modify elements to the assigned projects.
+The following roles are considered in a standard installation of APX GIS:
+1. **Administrator:** is allowed to perform configuration tasks. This user has access to the whole administration menu (Roles, Element types, imports), as well as planner and operator tasks.
+2. **Planner:** is allowed to create projects and assign elements to the different projects.
+3. **Operator:** by assigning one or more projects, this role is allowed to add or modify elements to the assigned projects.
 
 
 ## Starting Point

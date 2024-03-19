@@ -6,13 +6,16 @@ sidebar_position: 5
 
 This guide will help you **display elements of a layer** in the programme.
 
-## **Prerequisites**
-1.	**User ID** and **Password** to access APXGIS programme.
+## **Standard roles allowed to perform the following steps in the programme **
+
+1.	**Administrator**
+2.  **Planner**
+3. **Operator**
 
 ------------
 
 **Version**: 00
-**Date**: February-2024
+**Date**: March 2024
 
 ------------
 ## **Step by Step**

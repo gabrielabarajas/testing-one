@@ -6,15 +6,16 @@ sidebar_position: 5
 
 This guide will help you display a **Project** in the programme.
 
-## **Prerequisites**
-1.	**User ID** and **Password** to access APXGIS programme.
-2.	**Project** to be displayed has to be created previously.
+## **Standard roles allowed to perform the following steps in the programme **
 
+1.	**Administrator**
+2.  **Planner**
+3. **Operator**
 
 ------------
 
 **Version**: 00
-**Date**: October-2023
+**Date**: March 2024
 
 ------------
 ## **Step by Step**

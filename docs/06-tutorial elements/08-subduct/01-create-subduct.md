@@ -6,14 +6,16 @@ sidebar_position: 1
 
 This guide will help you create a **subduct** in the programme.
 
-## **Prerequisites**
-1.	**User ID** and **Password** to access APXGIS programme.
-2.  **Importnat: Duct** must be created previously. Subducts and Microducts are created fron a duct.
+## **Standard roles allowed to perform the following steps in the programme **
+
+1.	**Administrator**
+2.  **Planner**
+3. **Operator**
 
 ------------
 
 **Version**: 00
-**Date**: February-2024
+**Date**: March 2024
 
 ------------
 ## **Step by Step**

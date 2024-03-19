@@ -5,13 +5,16 @@ sidebar_position: 5
 
 This guide will help you **delete a map** in APX GIS programme.
 
-## **Prerequisites**
-1.	**User ID** and **Password** to access APX-GIS programme.
+## **Standard roles allowed to perform the following steps in the programme **
+
+1.	**Administrator**
+2.  **Planner**
+3. **Operator**
 
 ------------
 
 **Version**: 00
-**Date**: December-2023
+**Date**: March 2024
 
 ------------
 ## **Step by Step**
