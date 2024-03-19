@@ -12,7 +12,7 @@ This guide will help you undetrstand **Roles** in APX GIS programme.
 
 ------------
 
-The following roles are considered in APX-GIS:
+The following roles are considered in a standard installation of APX-GIS:
 
 
 1. **Administrator:** Can do configuration tasks, have access to the whole administration menu (Roles, Element types, imports), as well as planner and operator tasks.
