@@ -11,7 +11,7 @@ This guide will help you undetrstand **Projects** in APX GIS programme.
 ------------
 
 **Version**: 00
-**Date**: December-2023
+**Date**: April 2024
 
 ------------
 ## **Infographic**
