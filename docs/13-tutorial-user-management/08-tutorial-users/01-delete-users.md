@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Delete a User
+# Delete User
 
 This guide will help you delete a **User** in the programme.
 

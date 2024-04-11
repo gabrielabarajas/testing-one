@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Update a User
+# Update User
 
 This guide will help you update a **User** in the programme.
 

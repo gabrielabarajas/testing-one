@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Add a User
+# Add User
 
 This guide will help you create a **User** in the programme.
 
