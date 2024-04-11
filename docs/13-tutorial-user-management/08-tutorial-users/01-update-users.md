@@ -6,7 +6,6 @@ sidebar_position: 3
 
 This guide will help you update a **User** in the programme.
 
-## **Prerequisites**
 ## **Standard roles allowed to perform the following steps in the programme **
 
 1.	**Administrator**
