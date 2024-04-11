@@ -1,8 +1,0 @@
-{
-    "label": "Olt",
-    "position": 12,
-    "link": {
-      "type": "generated-index",
-      "description": "Procedures related to Olts."
-    }
-}

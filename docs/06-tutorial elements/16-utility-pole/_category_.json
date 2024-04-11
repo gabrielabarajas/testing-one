@@ -1,8 +1,0 @@
-{
-    "label": "Utility pole",
-    "position": 15,
-    "link": {
-      "type": "generated-index",
-      "description": "Procedures related to utility poles."
-    }
-}
