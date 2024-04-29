@@ -20,12 +20,12 @@ This guide will help you create an **Import** to a CVS file.
 ------------
 ## **Step by Step**
 
-![](/img/11.Imports/Imports8.png)
-![](/img/11.Imports/Imports9.png)
-![](/img/11.Imports/Imports10.png)
-![](/img/11.Imports/Imports11.png)
-![](/img/11.Imports/Imports12.png)
-![](/img/11.Imports/Imports13.png)
-![](/img/11.Imports/Imports14.png)
-![](/img/11.Imports/Imports15.png)
-![](/img/11.Imports/Imports16.png)
+![](/img/15.Imports/Imports8.png)
+![](/img/15.Imports/Imports9.png)
+![](/img/15.Imports/Imports10.png)
+![](/img/15.Imports/Imports11.png)
+![](/img/15.Imports/Imports12.png)
+![](/img/15.Imports/Imports13.png)
+![](/img/15.Imports/Imports14.png)
+![](/img/15.Imports/Imports15.png)
+![](/img/15.Imports/Imports16.png)

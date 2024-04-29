@@ -20,7 +20,7 @@ This guide will help you create an **Export** in APX GIS programme using Schedul
 ------------
 ## **Step by Step**
 
-![](/img/12.Exports/Scheduled-1.png)
-![](/img/12.Exports/Scheduled-2.png)
-![](/img/12.Exports/Scheduled-3.png)
-![](/img/12.Exports/Scheduled-4.png)
+![](/img/16.Exports/Scheduled-1.png)
+![](/img/16.Exports/Scheduled-2.png)
+![](/img/16.Exports/Scheduled-3.png)
+![](/img/16.Exports/Scheduled-4.png)

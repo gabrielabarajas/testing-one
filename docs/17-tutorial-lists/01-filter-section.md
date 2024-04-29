@@ -20,11 +20,11 @@ This guide will help you create an **Export** in APX GIS programme using filter 
 ------------
 ## **Step by Step**
 
-![](/img/12.Exports/Filter-1.png)
-![](/img/12.Exports/Filter-2.png)
-![](/img/12.Exports/Filter-3.png)
-![](/img/12.Exports/Filter-4.png)
-![](/img/12.Exports/Filter-5.png)
-![](/img/12.Exports/Filter-6.png)
-![](/img/12.Exports/Filter-7.png)
-![](/img/12.Exports/Filter-8.png)
+![](/img/16.Exports/Filter-1.png)
+![](/img/16.Exports/Filter-2.png)
+![](/img/16.Exports/Filter-3.png)
+![](/img/16.Exports/Filter-4.png)
+![](/img/16.Exports/Filter-5.png)
+![](/img/16.Exports/Filter-6.png)
+![](/img/16.Exports/Filter-7.png)
+![](/img/16.Exports/Filter-8.png)

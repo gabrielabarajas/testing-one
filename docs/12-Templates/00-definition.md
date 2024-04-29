@@ -3,7 +3,7 @@ sidebar_position: 0
 ---
 # Definition
 
-This guide will help you undetrstand **Roles** in APX GIS programme.
+This guide will help you undetrstand **Templates** in APX GIS programme.
 
 ------------
 
@@ -13,5 +13,4 @@ This guide will help you undetrstand **Roles** in APX GIS programme.
 ------------
 ## **Infographic**
 
-
-![](/img/1.Roles/roles-intro01.png)
+![](/img/12.Templates/Template-Intro01.png)

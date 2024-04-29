@@ -13,5 +13,5 @@ This guide will help you undetrstand **Exports** in APX GIS programme.
 ------------
 ## **Infographic**
 
-![](/img/12.Exports/Intro-1.png)
-![](/img/12.Exports/Intro-2.png)
+![](/img/16.Exports/Intro-1.png)
+![](/img/16.Exports/Intro-2.png)

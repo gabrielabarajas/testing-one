@@ -20,13 +20,13 @@ This guide will help you create an **Export** in APX GIS programme using advance
 ------------
 ## **Step by Step**
 
-![](/img/12.Exports/Advanced-1.png)
-![](/img/12.Exports/Advanced-2.png)
-![](/img/12.Exports/Advanced-3.png)
-![](/img/12.Exports/Advanced-4.png)
-![](/img/12.Exports/Advanced-5.png)
-![](/img/12.Exports/Advanced-6.png)
-![](/img/12.Exports/Advanced-7.png)
-![](/img/12.Exports/Advanced-8.png)
-![](/img/12.Exports/Advanced-9.png)
-![](/img/12.Exports/Advanced-10.png)
+![](/img/16.Exports/Advanced-1.png)
+![](/img/16.Exports/Advanced-2.png)
+![](/img/16.Exports/Advanced-3.png)
+![](/img/16.Exports/Advanced-4.png)
+![](/img/16.Exports/Advanced-5.png)
+![](/img/16.Exports/Advanced-6.png)
+![](/img/16.Exports/Advanced-7.png)
+![](/img/16.Exports/Advanced-8.png)
+![](/img/16.Exports/Advanced-9.png)
+![](/img/16.Exports/Advanced-10.png)
