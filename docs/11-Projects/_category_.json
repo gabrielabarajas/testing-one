@@ -1,9 +1,9 @@
 {
-    "label": "Imports",
+    "label": "Project",
     "position": 11,
     "link": {
       "type": "generated-index",
-      "description": "Basic concepts of Imports in APX GIS."
+      "description": "Basic concepts of Projects in APX GIS."
     }
   }
   
