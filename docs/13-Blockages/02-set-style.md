@@ -1,9 +1,9 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
-# Set Style
+# Set Map Style
 
-This guide will help you set a **Style for a Blockage** in APX GIS programme.
+This guide will help you set a **Map Style for a Blockage** in APX GIS programme.
 
 ------------
 
