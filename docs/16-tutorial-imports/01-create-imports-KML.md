@@ -20,7 +20,6 @@ This guide will help you create an **Import** to a KML file.
 ------------
 ## **Step by Step**
 
-![](/img/15.Imports/Imports1.png)
 ![](/img/15.Imports/Imports2.png)
 ![](/img/15.Imports/Imports3.png)
 ![](/img/15.Imports/Imports4.png)

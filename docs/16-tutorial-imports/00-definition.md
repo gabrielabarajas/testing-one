@@ -14,3 +14,4 @@ This guide will help you undetrstand **Imports** in APX GIS programme.
 ## **Infographic**
 
 ![](/img/15.Imports/Imports0.png)
+![](/img/15.Imports/Imports1.png)
