@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Import KML
 
-This guide will help you **Import** from a KML file.
+This guide will help you **Import** data from a KML file.
 
 ## **Standard roles allowed to perform the following steps in the programme **
 

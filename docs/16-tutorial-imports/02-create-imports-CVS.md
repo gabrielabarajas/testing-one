@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Import CVS
 
-This guide will help you **Import** from a CVS file.
+This guide will help you **Import** data from a CVS file.
 
 ## **Standard roles allowed to perform the following steps in the programme **
 
