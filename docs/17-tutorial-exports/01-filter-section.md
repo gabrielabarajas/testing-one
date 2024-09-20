@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Filter Section
 
-This guide will help you create an **Export** in APX GIS programme using filter section's options.
+This guide will help you **Export** data from APX GIS using basic and advanced filters options.
 
 ## **Standard roles allowed to perform the following steps in the programme **
 
