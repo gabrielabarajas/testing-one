@@ -3,7 +3,7 @@ sidebar_position: 0
 ---
 # Definition
 
-This guide will help you undetrstand **Templates** in APX GIS programme.
+This guide will help you understand **Templates** in APX GIS programme.
 
 ------------
 

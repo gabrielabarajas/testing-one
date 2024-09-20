@@ -3,7 +3,7 @@ sidebar_position: 0
 ---
 # Definition
 
-This guide will help you undetrstand **Imports** in APX GIS programme.
+This guide will help you understand **Imports** in APX GIS programme.
 
 ------------
 

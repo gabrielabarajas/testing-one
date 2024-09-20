@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # 4 basic concepts
 
-This guide will help you undetrstand **4 basic concepts** in APX GIS programme.
+This guide will help you understand **4 basic concepts** in APX GIS programme.
 
 ## **Prerequisites**
 1.	No prerequisites.

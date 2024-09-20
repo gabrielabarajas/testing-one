@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # Search definition
 
-This guide will help you undetrstand **Search bar** in APX GIS programme.
+This guide will help you understand **Search bar** in APX GIS programme.
 
 ## **Prerequisites**
 1.	No prerequisites.

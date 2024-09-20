@@ -3,7 +3,7 @@ sidebar_position: 0
 ---
 # Definition
 
-This guide will help you undetrstand **Projects** in APX GIS programme.
+This guide will help you understand **Projects** in APX GIS programme.
 
 ## **Prerequisites**
 1.	No prerequisites.

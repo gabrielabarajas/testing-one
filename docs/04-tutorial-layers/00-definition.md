@@ -3,7 +3,7 @@ sidebar_position: 0
 ---
 # Definition
 
-This guide will help you undetrstand **Maps** in APX GIS programme.
+This guide will help you understand **Maps** in APX GIS programme.
 
 ------------
 
