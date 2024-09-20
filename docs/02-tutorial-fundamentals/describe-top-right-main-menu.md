@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 # Top Right Main Menu
 
-This guide will help you undestand the **Top Right Main Menu**.
+This guide will help you understand the **Top Right Main Menu**.
 
 ## **Prerequisites**
 1.	**User ID** and **Password** to access APXGIS programme.
