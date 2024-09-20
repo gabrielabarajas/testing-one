@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-# Create import CVS
+# Import CVS
 
-This guide will help you create an **Import** to a CVS file.
+This guide will help you **Import** from a CVS file.
 
 ## **Standard roles allowed to perform the following steps in the programme **
 

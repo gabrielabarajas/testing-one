@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Create import KML
+# Import KML
 
-This guide will help you create an **Import** to a KML file.
+This guide will help you **Import** from a KML file.
 
 ## **Standard roles allowed to perform the following steps in the programme **
 
